@@ -11,7 +11,7 @@ def create_show(show):
 
 def create_notification(notification):
     session, engine = connect()
-    new_notification = Notification(id_show=notification.id_show, episode=notification.episode, link=notification.link)
+    new_notification = Notification(id_show=notification.id_show, id_episode=notification.id_episode, episode=notification.episode, link=notification.link)
     session.add(new_notification)
     session.commit()
     session.close()
@@ -39,3 +39,23 @@ def select_notification_by_show_id(id_show):
     notifications = session.query(Notification).filter(Notification.id_show == id_show).all()
     session.close()
     return notifications
+
+def select_notification_by_episode_id(id_episode):
+    session, engine = connect()
+    notification = session.query(Notification).filter(Notification.id_episode == id_episode).first()
+    session.close()
+    return notification
+
+def update_show(show):
+    session, engine = connect()
+    session.query(Show).filter(Show.id_show == show.id_show).update(
+        {Show.last_episode: show.last_episode, Show.date_last_watched: show.date_last_watched, Show.snoozed: show.snoozed})
+    session.commit()
+    session.close()
+
+def update_notification(notification):
+    session, engine = connect()
+    session.query(Notification).filter(Notification.id_notif == notification.id_notif).update(
+        {Notification.link: notification.link})
+    session.commit()
+    session.close()
