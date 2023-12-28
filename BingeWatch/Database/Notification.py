@@ -1,3 +1,4 @@
+
 class Notification:
     def __init__(self, id_show, id_video, episode, link, date):
         self.id_show = id_show

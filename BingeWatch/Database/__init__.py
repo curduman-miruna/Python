@@ -1,1 +1,1 @@
-print ("Package Database init")
+print("Initializing Database Package")

@@ -1,3 +1,4 @@
+
 class Show:
     def __init__(self, name, rating, imdb, last_episode, date_last_watched, snoozed):
         self.name = name
