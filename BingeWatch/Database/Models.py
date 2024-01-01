@@ -28,7 +28,8 @@ class Show(Base):
     rating = Column(Float)
     imdb = Column(String)
     last_episode = Column(Integer)
-    date_last_watched = Column(Date, nullable=False)
+    episode_season = Column(Integer)
+    date_last_watched = Column(Date)
     snoozed = Column(Boolean, default=False)
     notifications = relationship("Notification", backref="shows")
 
@@ -37,13 +38,15 @@ class Notification(Base):
     __tablename__ = 'notifications'
     id_notif = Column(Integer, primary_key=True, autoincrement=True)
     id_show = Column(Integer, ForeignKey('shows.id_show'))
-    id_video = Column(String)
+    id_video = Column(String, unique=True)
     episode = Column(Integer)
+    season = Column(Integer)
     link = Column(String)
     date = Column(Date, nullable=False)
 
 
-def main():
+if __name__ == '__main__':
+    logging.info("Creating new database...")
     session, engine = connect()
     Base.metadata.drop_all(engine)
     Base.metadata.create_all(engine)

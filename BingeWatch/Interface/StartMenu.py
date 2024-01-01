@@ -1,25 +1,25 @@
 import logging
 import tkinter as tk
-from tkinter import messagebox
+from tkinter import messagebox, simpledialog
+from PIL import Image, ImageTk
+
+from Interface.InsertImdb import open_insert_imdb_window
+from Interface.InsertShow import open_insert_window
 
 logging.basicConfig(filename='logs.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
-
-
 def on_manage_shows():
-    messagebox.showinfo("Manage Shows", "Placeholder: Manage Shows Logic")
-
+    open_insert_imdb_window()
 
 def on_search_trailer_uploads():
-    messagebox.showinfo("Search Trailer and Uploads", "Placeholder: Search Trailer and Uploads Logic")
-
+    simpledialog.askstring("Search Trailer and Uploads", "What show do you want to search?")
+    simpledialog.askinteger("Search Trailer and Uploads", "What episode do you want to search?")
 
 def on_show_notifications():
     messagebox.showinfo("Show Notifications", "Placeholder: Show Notifications Logic")
 
 
 def start_app():
-
     start_menu = tk.Tk()
     start_menu.geometry(f"{500}x{400}")
     start_menu.title("Show Management App")

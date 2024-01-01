@@ -1,1 +1,1 @@
-print ("Package Scrapper init")
+print("Initializing Scrapper Package")
