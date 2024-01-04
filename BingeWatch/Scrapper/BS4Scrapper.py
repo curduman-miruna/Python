@@ -18,6 +18,11 @@ logging.basicConfig(
 
 
 def get_episodes_per_season(imdb_link):
+    """
+    Gets the number of episodes per season for a given TV show.
+    :param imdb_link: The imdb link of the TV show.
+    :return: The number of episodes per season.
+    """
     logging.info(f"Getting episodes per season for {imdb_link}")
     print(imdb_link)
     seasons = int(extract_show_seasons(imdb_link))+1
@@ -31,6 +36,11 @@ def get_episodes_per_season(imdb_link):
 
 
 def get_episodes_of_season(imdb_link):
+    """
+    Gets the number of episodes of a given season.
+    :param imdb_link:
+    :return: The number of episodes of a given season.
+    """
     response = requests.get(imdb_link, headers=headers)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, "html.parser")

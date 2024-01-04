@@ -6,21 +6,29 @@ from Scrapper.ImdbScrapper import (
     extract_show_info,
     check_link_type,
 )
-from colorama import Fore, Back, Style, init
+from colorama import Fore, Style
 
 from Database.Commands import (
     create_show,
     search_show_by_name,
     delete_show,
     update_show_rating,
-    update_show_snoozed, select_show_rating_none_unsnoozed_has_notification, list_unsnoozed_shows_notifications,
-    list_new_episodes_per_show, select_shows, list_snoozed_shows,
+    update_show_snoozed,
+    select_show_rating_none_unsnoozed_has_notification,
+    list_unsnoozed_shows_notifications,
+    list_new_episodes_per_show,
+    list_snoozed_shows,
 )
-from Scrapper.YoutubeScrapper import add_notification_new_episodes, add_notification_all_shows
+from Scrapper.YoutubeScrapper import (
+    add_notification_all_shows,
+)
 
 
 def initialize():
-
+    """
+    Initializes the program
+    :return:
+    """
     shows = select_show_rating_none_unsnoozed_has_notification()
     if shows:
         for show in shows:
@@ -30,11 +38,20 @@ def initialize():
 
 
 def command_add_notifications():
+    """
+    Adds notifications for all shows.
+    :return:
+    """
     print("Searching new episodes for all shows. This may take a while...")
     add_notification_all_shows()
 
 
 def command_add_show(command_text):
+    """
+    Adds a new show to the database
+    :param command_text: the input command containing the imdb link and rating
+    :return: True if the show was added successfully, False otherwise
+    """
     parts = command_text.split()
     if len(parts) > 3:
         if not parts[3]:
@@ -90,6 +107,10 @@ def command_add_show(command_text):
 
 
 def command_delete_show():
+    """
+    Deletes a show from the database
+    :return: True if the show was deleted successfully, False otherwise
+    """
     show = input("Enter the name of the show you want to delete: ")
     show_info = search_show_by_name(show)
     if show_info:
@@ -109,6 +130,10 @@ def command_delete_show():
 
 
 def command_snooze_show():
+    """
+    Snoozes/unsnoozes a show
+    :return: True if the show was snoozed/unsnoozed successfully, False otherwise
+    """
     snoozed_shows = list_snoozed_shows()
     if not snoozed_shows:
         print(f"{Fore.YELLOW}You don't have any snoozed shows{Style.RESET_ALL}")
@@ -133,6 +158,10 @@ def command_snooze_show():
 
 
 def command_update_rating():
+    """
+    Updates the rating of a show
+    :return:
+    """
     show = input("Enter the name of the show you want to update: ")
     show_info = search_show_by_name(show)
     if show_info:
@@ -153,6 +182,10 @@ def command_update_rating():
 
 
 def command_list_shows():
+    """
+    Lists all shows
+    :return:
+    """
     shows = list_unsnoozed_shows_notifications()
     for show in shows:
         print(f"{show.name} has new episodes!")
@@ -163,11 +196,16 @@ def command_list_shows():
 
 
 if __name__ == "__main__":
+    """
+    Main function
+    """
     try:
         running = True
         initialize()
         while running:
-            command = input("Enter a command (or 'exit' to quit, 'help' to list commands): ")
+            command = input(
+                "Enter a command (or 'exit' to quit, 'help' to list commands): "
+            )
             if command.lower() == "exit":
                 running = False
 
@@ -187,7 +225,7 @@ if __name__ == "__main__":
                 response = command_list_shows()
 
             elif command.lower().startswith("adaugare notificari"):
-                response = command_add_notifications()
+                command_add_notifications()
 
             elif command.lower() == "help":
                 print(f"{Fore.BLUE}The commands are:{Style.RESET_ALL}")

@@ -8,12 +8,22 @@ from Scrapper.BS4Scrapper import get_episodes_per_season
 
 
 def add_notification_all_shows():
+    """
+    Adds notifications for all shows.
+    :return:
+    """
     logging.info("Searching for new episodes for all shows")
     shows = select_shows()
     for show in shows:
         add_notification_new_episodes(show.id_show)
 
+
 def add_notification_new_episodes(id_show):
+    """
+    Adds notifications for new episodes of a show.
+    :param id_show: The unique identifier of the show.
+    :return:
+    """
     show = select_show_by_id(id_show)
     show_name = show.name
     logging.info(f"Searching for new episodes for {show_name}")
@@ -52,4 +62,3 @@ def add_notification_new_episodes(id_show):
                 )
 
         episode = 1
-

@@ -614,3 +614,10 @@ DETAIL:  Key (name)=(Planet Earth II) already exists.
 2024-01-01 12:01:46,098 - INFO - Keyboard interrupt
 2024-01-01 12:02:33,169 - INFO - Keyboard interrupt
 2024-01-01 12:03:30,507 - INFO - Keyboard interrupt
+2024-01-01 12:06:34,848 - INFO - Starting the application.
+2024-01-01 12:06:45,947 - INFO - Application closed successfully.
+2024-01-01 12:15:42,929 - INFO - Starting the application.
+2024-01-01 12:16:15,280 - INFO - Extracting episode info from https://www.imdb.com/title/tt27484657/?ref_=tt_eps_top
+2024-01-01 12:16:21,327 - INFO - Extracted episode info: Ahsoka - 5
+2024-01-01 12:16:34,757 - INFO - Application closed successfully.
+2024-01-03 15:59:53,982 - INFO - Keyboard interrupt

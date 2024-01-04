@@ -10,6 +10,11 @@ ia = IMDb()
 
 
 def extract_episode_info(imdb_url):
+    """
+    Extracts the episode info from an IMDb link.
+    :param imdb_url: The IMDb link for an episode.
+    :return: The episode number, season number, TV show name, and IMDb link of the show, not episodes.
+    """
     logging.info(f"Extracting episode info from {imdb_url}")
     try:
         imdb_id = imdb_url.split("/")[-2][2:]
@@ -32,6 +37,11 @@ def extract_episode_info(imdb_url):
 
 
 def extract_show_seasons(imdb_link):
+    """
+    Extracts the number of seasons of a TV show.
+    :param imdb_link: The IMDb link of the TV show.
+    :return: The number of seasons of the TV show.
+    """
     logging.info(f"Extracting show info from {imdb_link}")
     imdb_id = imdb_link.split("/")[-2][2:]
     try:
@@ -44,6 +54,11 @@ def extract_show_seasons(imdb_link):
 
 
 def extract_show_info(imdb_link):
+    """
+    Extracts the name and IMDb link of a TV show.
+    :param imdb_link:
+    :return: The title and IMDb link of the TV show.
+    """
     logging.info(f"Extracting show info from {imdb_link}")
     imdb_id = imdb_link.split("/")[-2][2:]
     try:
@@ -57,6 +72,15 @@ def extract_show_info(imdb_link):
 
 
 def check_link_type(imdb_link):
+    """
+    Checks the type of the IMDb link.
+    :param imdb_link:
+    :return:
+    series - if the link is to a TV show,
+    episode - if the link is to an episode,
+    other - if the link is to something else.
+    None - if the link does not exist.
+    """
     logging.info(f"Checking link type for {imdb_link}")
     imdb_id = imdb_link.split("/")[-2][2:]
     try:
