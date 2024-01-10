@@ -17,10 +17,17 @@ from Database.Commands import (
     select_show_rating_none_unsnoozed_has_notification,
     list_unsnoozed_shows_notifications,
     list_new_episodes_per_show,
-    list_snoozed_shows,
+    list_snoozed_shows, update_show_last_episode, select_shows,
 )
 from Scrapper.YoutubeScrapper import (
     add_notification_all_shows,
+)
+
+
+logging.basicConfig(
+    filename="logs.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
 
@@ -29,6 +36,7 @@ def initialize():
     Initializes the program
     :return:
     """
+    logging.info("Initializing program")
     shows = select_show_rating_none_unsnoozed_has_notification()
     if shows:
         for show in shows:
@@ -151,10 +159,8 @@ def command_snooze_show():
         if confirmation.lower() == "y":
             update_show_snoozed(show_info)
             print(f"{show_info.name} snoozed/unsnoozed successfully!")
-            return True
         else:
             print("Snooze cancelled")
-            return True
 
 
 def command_update_rating():
@@ -175,10 +181,32 @@ def command_update_rating():
             show_info.rating = new_rating
             update_show_rating(show_info)
             print(f"{show_info.name} updated successfully!")
-            return True
         else:
             print("Update cancelled")
-            return True
+
+
+def command_update_last_episode():
+    """
+    Updates the last watched episode of a show
+    :return:
+    """
+    show = input("Enter the name of the show you want to update: ")
+    show_info = search_show_by_name(show)
+    if show_info:
+        print(f"Current episode: {show_info.last_episode} SEASON: {show_info.episode_season}")
+        new_episode = input(f"Enter new episode: ")
+        new_season = input(f"Enter new season: ")
+        show_info.last_episode = int(new_episode)
+        show_info.episode_season = int(new_season)
+        confirmation = input(
+            f"Are you sure you want to update {show_info.name}? (y/n): "
+        )
+        if confirmation.lower() == "y":
+            show_info.last_episode = new_episode
+            update_show_last_episode(show_info)
+            print(f"{show_info.name} updated successfully!")
+        else:
+            print("Update cancelled")
 
 
 def command_list_shows():
@@ -192,7 +220,18 @@ def command_list_shows():
         episodes = list_new_episodes_per_show(show.id_show)
         for episode in episodes:
             print(f"Season {episode.season} Episode {episode.episode}")
-    return True
+
+
+def command_list_all_shows():
+    """
+    Lists all shows
+    :return:
+    """
+    shows = select_shows()
+    for show in shows:
+        print(f"{show.name} has the rating {show.rating}. "
+              f"Last episode was {show.last_episode}, season {show.episode_season} on {show.date_last_watched}. "
+              f"Snooze status: {show.snoozed}")
 
 
 if __name__ == "__main__":
@@ -206,6 +245,7 @@ if __name__ == "__main__":
             command = input(
                 "Enter a command (or 'exit' to quit, 'help' to list commands): "
             )
+            logging.info(f"Command entered: {command}")
             if command.lower() == "exit":
                 running = False
 
@@ -216,25 +256,33 @@ if __name__ == "__main__":
                 response = command_delete_show()
 
             elif command.lower().startswith("modificare scor"):
-                response = command_update_rating()
+                command_update_rating()
 
             elif command.lower().startswith("snooze/unsnooze"):
-                response = command_snooze_show()
+                command_snooze_show()
 
             elif command.lower().startswith("listare"):
-                response = command_list_shows()
+                command_list_shows()
 
             elif command.lower().startswith("adaugare notificari"):
                 command_add_notifications()
+
+            elif command.lower().startswith("update last episode"):
+                command_update_last_episode()
+
+            elif command.lower().startswith("vizualizare seriale"):
+                command_list_all_shows()
 
             elif command.lower() == "help":
                 print(f"{Fore.BLUE}The commands are:{Style.RESET_ALL}")
                 print(f"{Fore.GREEN}  adaugare serial{Style.RESET_ALL}")
                 print(f"{Fore.GREEN}  stergere serial")
                 print(f"{Fore.GREEN}  modificare scor")
-                print(f"{Fore.GREEN}  snooze/unsnooze")
-                print(f"{Fore.GREEN}  listare")
-                print(f"{Fore.GREEN}  adaugare notificari")
+                print(f"{Fore.GREEN}  snooze/unsnooze - modifica statusul snooze al unui serial")
+                print(f"{Fore.GREEN}  listare - lista seriale cu episoade noi")
+                print(f"{Fore.GREEN}  adaugare notificari - cauta noi episoade pentru toate serialele")
+                print(f"{Fore.GREEN}  update last episode - modificare ultimul episod vazut")
+                print(f"{Fore.GREEN}  vizualizare seriale - o lista detalii seriale")
                 print(f"{Fore.GREEN}  exit{Style.RESET_ALL}")
 
         print("Goodbye!")

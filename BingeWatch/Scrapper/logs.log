@@ -514,3 +514,12 @@ urllib.error.HTTPError: HTTP Error 404:
 2023-12-30 20:58:33,756 - INFO - New trailers found for 6 x 20 of The Sopranos
 2023-12-30 20:58:34,485 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
 2023-12-30 20:58:34,673 - INFO - New trailers found for 6 x 21 of The Sopranos
+2024-01-10 11:11:02,629 - INFO - Getting episodes per season for https://www.imdb.com/title/tt0141842/episodes?season=6
+2024-01-10 11:11:02,630 - INFO - Extracting show info from https://www.imdb.com/title/tt0141842/episodes?season=6
+2024-01-10 11:15:03,847 - ERROR - Episodes section not found.
+2024-01-10 11:15:27,704 - ERROR - Episodes section not found.
+2024-01-10 11:20:37,854 - ERROR - Episodes section not found.
+2024-01-10 11:22:02,002 - ERROR - Episodes section not found.
+2024-01-10 11:22:16,801 - ERROR - Episodes section not found.
+2024-01-10 11:26:19,295 - ERROR - Episodes section not found.
+2024-01-10 11:27:59,335 - ERROR - Episodes section not found.

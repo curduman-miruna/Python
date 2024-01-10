@@ -1,6 +1,5 @@
 import logging
 from datetime import datetime
-
 from youtubesearchpython import VideosSearch
 from Database.Commands import select_show_by_id, create_notification, select_notification_by_video_id, select_shows
 from Database.Notification import Notification
@@ -28,10 +27,12 @@ def add_notification_new_episodes(id_show):
     show_name = show.name
     logging.info(f"Searching for new episodes for {show_name}")
     episodes_per_season = get_episodes_per_season(show.imdb)
+    print(episodes_per_season)
     season = show.episode_season if show.episode_season != 0 else 1
     episode = show.last_episode + 1 if show.last_episode != 0 else 1
     for season_index in range(season, len(episodes_per_season) + 1):
-        for episode_index in range(episode, episodes_per_season[season_index] + 1):
+        episode_number = episodes_per_season[season_index] + 1
+        for episode_index in range(episode, episode_number):
             search = (
                 f"{show_name} episode {episode_index} season {season_index} trailer"
             )

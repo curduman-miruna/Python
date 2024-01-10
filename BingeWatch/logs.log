@@ -621,3 +621,1517 @@ DETAIL:  Key (name)=(Planet Earth II) already exists.
 2024-01-01 12:16:21,327 - INFO - Extracted episode info: Ahsoka - 5
 2024-01-01 12:16:34,757 - INFO - Application closed successfully.
 2024-01-03 15:59:53,982 - INFO - Keyboard interrupt
+2024-01-10 10:48:08,518 - INFO - Keyboard interrupt
+2024-01-10 10:49:06,103 - INFO - Keyboard interrupt
+2024-01-10 10:54:40,630 - INFO - Keyboard interrupt
+2024-01-10 10:55:16,977 - INFO - Searching for new episodes for all shows
+2024-01-10 10:55:17,081 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 10:55:17,081 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 10:55:17,081 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 10:55:22,299 - ERROR - Episodes section not found.
+2024-01-10 10:55:24,014 - ERROR - Episodes section not found.
+2024-01-10 10:56:33,161 - INFO - Searching for new episodes for all shows
+2024-01-10 10:56:33,265 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 10:56:33,265 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 10:56:33,265 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 10:56:37,850 - ERROR - Episodes section not found.
+2024-01-10 10:56:39,253 - ERROR - Episodes section not found.
+2024-01-10 11:00:37,165 - INFO - Searching for new episodes for all shows
+2024-01-10 11:00:37,263 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:00:37,263 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:00:37,263 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:00:42,032 - ERROR - Episodes section not found.
+2024-01-10 11:00:43,644 - ERROR - Episodes section not found.
+2024-01-10 11:01:06,818 - INFO - Searching for new episodes for all shows
+2024-01-10 11:01:06,927 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:01:06,927 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:01:06,927 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:01:58,543 - INFO - Searching for new episodes for all shows
+2024-01-10 11:01:58,658 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:01:58,658 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:01:58,658 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:02:04,616 - ERROR - Episodes section not found.
+2024-01-10 11:02:06,042 - ERROR - Episodes section not found.
+2024-01-10 11:02:58,332 - INFO - Searching for new episodes for all shows
+2024-01-10 11:02:58,438 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:02:58,438 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:02:58,438 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:03:03,348 - ERROR - Episodes section not found.
+2024-01-10 11:03:05,061 - ERROR - Episodes section not found.
+2024-01-10 11:07:08,283 - INFO - Searching for new episodes for all shows
+2024-01-10 11:07:08,505 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:07:08,505 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:07:08,506 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:07:13,036 - ERROR - Episodes section not found.
+2024-01-10 11:07:14,293 - ERROR - Episodes section not found.
+2024-01-10 11:09:10,845 - INFO - Searching for new episodes for all shows
+2024-01-10 11:09:10,954 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:09:10,954 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:09:10,954 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:09:16,906 - INFO - Searching for new episodes for The Sopranos
+2024-01-10 11:09:16,906 - INFO - Getting episodes per season for https://www.imdb.com/title/tt0141842/
+2024-01-10 11:09:16,906 - INFO - Extracting show info from https://www.imdb.com/title/tt0141842/
+2024-01-10 11:09:34,179 - INFO - Searching for new episodes for Ahsoka
+2024-01-10 11:09:34,179 - INFO - Getting episodes per season for https://www.imdb.com/title/tt30192148/
+2024-01-10 11:09:34,179 - INFO - Extracting show info from https://www.imdb.com/title/tt30192148/
+2024-01-10 11:09:38,962 - INFO - Keyboard interrupt
+2024-01-10 11:10:12,358 - INFO - Searching for new episodes for all shows
+2024-01-10 11:10:12,477 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:10:12,477 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:10:12,477 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:10:18,918 - INFO - Searching for new episodes for The Sopranos
+2024-01-10 11:10:18,918 - INFO - Getting episodes per season for https://www.imdb.com/title/tt0141842/
+2024-01-10 11:10:18,918 - INFO - Extracting show info from https://www.imdb.com/title/tt0141842/
+2024-01-10 11:10:34,210 - INFO - Keyboard interrupt
+2024-01-10 11:32:07,438 - INFO - Searching for new episodes for all shows
+2024-01-10 11:32:07,650 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:32:07,650 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:32:07,650 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:32:15,606 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:15,757 - INFO - Notification already exists
+2024-01-10 11:32:15,809 - INFO - Notification already exists
+2024-01-10 11:32:15,860 - INFO - Notification already exists
+2024-01-10 11:32:15,860 - INFO - New trailers found for 1 x 1 of The Last of Us
+2024-01-10 11:32:16,580 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:16,721 - INFO - Notification already exists
+2024-01-10 11:32:16,773 - INFO - Notification already exists
+2024-01-10 11:32:16,826 - INFO - Notification already exists
+2024-01-10 11:32:16,826 - INFO - New trailers found for 1 x 2 of The Last of Us
+2024-01-10 11:32:17,564 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:17,716 - INFO - Notification already exists
+2024-01-10 11:32:17,768 - INFO - Notification already exists
+2024-01-10 11:32:17,879 - INFO - New trailers found for 1 x 3 of The Last of Us
+2024-01-10 11:32:18,636 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:18,758 - INFO - Notification already exists
+2024-01-10 11:32:18,806 - INFO - Notification already exists
+2024-01-10 11:32:18,909 - INFO - New trailers found for 1 x 4 of The Last of Us
+2024-01-10 11:32:19,674 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:19,841 - INFO - Notification already exists
+2024-01-10 11:32:19,890 - INFO - Notification already exists
+2024-01-10 11:32:19,941 - INFO - Notification already exists
+2024-01-10 11:32:19,941 - INFO - New trailers found for 1 x 5 of The Last of Us
+2024-01-10 11:32:20,639 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:20,745 - INFO - Notification already exists
+2024-01-10 11:32:20,794 - INFO - Notification already exists
+2024-01-10 11:32:20,889 - INFO - New trailers found for 1 x 6 of The Last of Us
+2024-01-10 11:32:21,688 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:21,805 - INFO - Notification already exists
+2024-01-10 11:32:21,856 - INFO - Notification already exists
+2024-01-10 11:32:21,907 - INFO - Notification already exists
+2024-01-10 11:32:21,907 - INFO - New trailers found for 1 x 7 of The Last of Us
+2024-01-10 11:32:22,644 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:22,775 - INFO - Notification already exists
+2024-01-10 11:32:22,826 - INFO - Notification already exists
+2024-01-10 11:32:22,918 - INFO - New trailers found for 1 x 8 of The Last of Us
+2024-01-10 11:32:23,645 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:23,761 - INFO - Notification already exists
+2024-01-10 11:32:23,806 - INFO - Notification already exists
+2024-01-10 11:32:23,903 - INFO - New trailers found for 1 x 9 of The Last of Us
+2024-01-10 11:32:24,693 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:24,840 - INFO - Notification already exists
+2024-01-10 11:32:24,890 - INFO - Notification already exists
+2024-01-10 11:32:24,939 - INFO - Notification already exists
+2024-01-10 11:32:24,939 - INFO - New trailers found for 2 x 1 of The Last of Us
+2024-01-10 11:32:24,987 - INFO - Searching for new episodes for The Sopranos
+2024-01-10 11:32:24,988 - INFO - Getting episodes per season for https://www.imdb.com/title/tt0141842/
+2024-01-10 11:32:24,988 - INFO - Extracting show info from https://www.imdb.com/title/tt0141842/
+2024-01-10 11:32:42,114 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:42,231 - INFO - Notification already exists
+2024-01-10 11:32:42,281 - INFO - Notification already exists
+2024-01-10 11:32:42,333 - INFO - Notification already exists
+2024-01-10 11:32:42,333 - INFO - New trailers found for 5 x 13 of The Sopranos
+2024-01-10 11:32:43,018 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:43,128 - INFO - Notification already exists
+2024-01-10 11:32:43,175 - INFO - Notification already exists
+2024-01-10 11:32:43,226 - INFO - Notification already exists
+2024-01-10 11:32:43,226 - INFO - New trailers found for 6 x 1 of The Sopranos
+2024-01-10 11:32:43,901 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:44,025 - INFO - Notification already exists
+2024-01-10 11:32:44,073 - INFO - Notification already exists
+2024-01-10 11:32:44,124 - INFO - Notification already exists
+2024-01-10 11:32:44,124 - INFO - New trailers found for 6 x 2 of The Sopranos
+2024-01-10 11:32:44,866 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:44,967 - INFO - Notification already exists
+2024-01-10 11:32:45,018 - INFO - Notification already exists
+2024-01-10 11:32:45,065 - INFO - Notification already exists
+2024-01-10 11:32:45,065 - INFO - New trailers found for 6 x 3 of The Sopranos
+2024-01-10 11:32:45,780 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:45,878 - INFO - Notification already exists
+2024-01-10 11:32:45,927 - INFO - Notification already exists
+2024-01-10 11:32:46,046 - INFO - New trailers found for 6 x 4 of The Sopranos
+2024-01-10 11:32:46,789 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:46,993 - INFO - Notification already exists
+2024-01-10 11:32:47,046 - INFO - Notification already exists
+2024-01-10 11:32:47,101 - INFO - Notification already exists
+2024-01-10 11:32:47,101 - INFO - New trailers found for 6 x 5 of The Sopranos
+2024-01-10 11:32:47,748 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:47,851 - INFO - Notification already exists
+2024-01-10 11:32:47,896 - INFO - Notification already exists
+2024-01-10 11:32:47,944 - INFO - Notification already exists
+2024-01-10 11:32:47,944 - INFO - New trailers found for 6 x 6 of The Sopranos
+2024-01-10 11:32:48,711 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:48,852 - INFO - Notification already exists
+2024-01-10 11:32:48,915 - INFO - Notification already exists
+2024-01-10 11:32:48,984 - INFO - Notification already exists
+2024-01-10 11:32:48,984 - INFO - New trailers found for 6 x 7 of The Sopranos
+2024-01-10 11:32:49,656 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:49,799 - INFO - Notification already exists
+2024-01-10 11:32:49,850 - INFO - Notification already exists
+2024-01-10 11:32:49,901 - INFO - Notification already exists
+2024-01-10 11:32:49,901 - INFO - New trailers found for 6 x 8 of The Sopranos
+2024-01-10 11:32:50,551 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:50,710 - INFO - Notification already exists
+2024-01-10 11:32:50,760 - INFO - Notification already exists
+2024-01-10 11:32:50,811 - INFO - Notification already exists
+2024-01-10 11:32:50,812 - INFO - New trailers found for 6 x 9 of The Sopranos
+2024-01-10 11:32:51,439 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:51,532 - INFO - Notification already exists
+2024-01-10 11:32:51,583 - INFO - Notification already exists
+2024-01-10 11:32:51,629 - INFO - Notification already exists
+2024-01-10 11:32:51,629 - INFO - New trailers found for 6 x 10 of The Sopranos
+2024-01-10 11:32:52,253 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:52,470 - INFO - Notification already exists
+2024-01-10 11:32:52,524 - INFO - Notification already exists
+2024-01-10 11:32:52,584 - INFO - Notification already exists
+2024-01-10 11:32:52,584 - INFO - New trailers found for 6 x 11 of The Sopranos
+2024-01-10 11:32:53,254 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:53,369 - INFO - Notification already exists
+2024-01-10 11:32:53,416 - INFO - Notification already exists
+2024-01-10 11:32:53,466 - INFO - Notification already exists
+2024-01-10 11:32:53,466 - INFO - New trailers found for 6 x 12 of The Sopranos
+2024-01-10 11:32:54,129 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:54,245 - INFO - Notification already exists
+2024-01-10 11:32:54,293 - INFO - Notification already exists
+2024-01-10 11:32:54,344 - INFO - Notification already exists
+2024-01-10 11:32:54,344 - INFO - New trailers found for 6 x 13 of The Sopranos
+2024-01-10 11:32:54,958 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:55,096 - INFO - Notification already exists
+2024-01-10 11:32:55,145 - INFO - Notification already exists
+2024-01-10 11:32:55,192 - INFO - Notification already exists
+2024-01-10 11:32:55,192 - INFO - New trailers found for 6 x 14 of The Sopranos
+2024-01-10 11:32:55,830 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:55,934 - INFO - Notification already exists
+2024-01-10 11:32:55,987 - INFO - Notification already exists
+2024-01-10 11:32:56,036 - INFO - Notification already exists
+2024-01-10 11:32:56,037 - INFO - New trailers found for 6 x 15 of The Sopranos
+2024-01-10 11:32:56,721 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:56,827 - INFO - Notification already exists
+2024-01-10 11:32:56,878 - INFO - Notification already exists
+2024-01-10 11:32:56,925 - INFO - Notification already exists
+2024-01-10 11:32:56,925 - INFO - New trailers found for 6 x 16 of The Sopranos
+2024-01-10 11:32:57,563 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:58,029 - INFO - Notification already exists
+2024-01-10 11:32:58,083 - INFO - Notification already exists
+2024-01-10 11:32:58,136 - INFO - Notification already exists
+2024-01-10 11:32:58,136 - INFO - New trailers found for 6 x 17 of The Sopranos
+2024-01-10 11:32:58,798 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:58,931 - INFO - Notification already exists
+2024-01-10 11:32:59,088 - INFO - Notification already exists
+2024-01-10 11:32:59,135 - INFO - Notification already exists
+2024-01-10 11:32:59,135 - INFO - New trailers found for 6 x 18 of The Sopranos
+2024-01-10 11:32:59,764 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:32:59,905 - INFO - Notification already exists
+2024-01-10 11:32:59,957 - INFO - Notification already exists
+2024-01-10 11:33:00,066 - INFO - New trailers found for 6 x 19 of The Sopranos
+2024-01-10 11:33:00,717 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:00,822 - INFO - Notification already exists
+2024-01-10 11:33:00,874 - INFO - Notification already exists
+2024-01-10 11:33:00,928 - INFO - Notification already exists
+2024-01-10 11:33:00,928 - INFO - New trailers found for 6 x 20 of The Sopranos
+2024-01-10 11:33:01,692 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:01,909 - INFO - Notification already exists
+2024-01-10 11:33:01,959 - INFO - Notification already exists
+2024-01-10 11:33:02,008 - INFO - Notification already exists
+2024-01-10 11:33:02,008 - INFO - New trailers found for 6 x 21 of The Sopranos
+2024-01-10 11:33:02,058 - INFO - Searching for new episodes for Ahsoka
+2024-01-10 11:33:02,059 - INFO - Getting episodes per season for https://www.imdb.com/title/tt30192148/
+2024-01-10 11:33:02,059 - INFO - Extracting show info from https://www.imdb.com/title/tt30192148/
+2024-01-10 11:33:08,490 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:09,256 - INFO - New trailers found for 1 x 6 of Ahsoka
+2024-01-10 11:33:09,975 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:10,415 - INFO - New trailers found for 1 x 7 of Ahsoka
+2024-01-10 11:33:11,198 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:11,607 - INFO - New trailers found for 1 x 8 of Ahsoka
+2024-01-10 11:33:11,657 - INFO - Searching for new episodes for The 100
+2024-01-10 11:33:11,657 - INFO - Getting episodes per season for https://www.imdb.com/title/tt2661044/
+2024-01-10 11:33:11,657 - INFO - Extracting show info from https://www.imdb.com/title/tt2661044/
+2024-01-10 11:33:30,885 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:31,054 - INFO - Notification already exists
+2024-01-10 11:33:31,105 - INFO - Notification already exists
+2024-01-10 11:33:31,147 - INFO - Notification already exists
+2024-01-10 11:33:31,147 - INFO - New trailers found for 2 x 2 of The 100
+2024-01-10 11:33:31,875 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:31,982 - INFO - Notification already exists
+2024-01-10 11:33:32,032 - INFO - Notification already exists
+2024-01-10 11:33:32,078 - INFO - Notification already exists
+2024-01-10 11:33:32,078 - INFO - New trailers found for 2 x 3 of The 100
+2024-01-10 11:33:32,760 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:32,863 - INFO - Notification already exists
+2024-01-10 11:33:32,916 - INFO - Notification already exists
+2024-01-10 11:33:32,968 - INFO - Notification already exists
+2024-01-10 11:33:32,968 - INFO - New trailers found for 2 x 4 of The 100
+2024-01-10 11:33:33,617 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:33,759 - INFO - Notification already exists
+2024-01-10 11:33:33,807 - INFO - Notification already exists
+2024-01-10 11:33:33,911 - INFO - New trailers found for 2 x 5 of The 100
+2024-01-10 11:33:34,607 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:34,733 - INFO - Notification already exists
+2024-01-10 11:33:34,777 - INFO - Notification already exists
+2024-01-10 11:33:34,823 - INFO - Notification already exists
+2024-01-10 11:33:34,823 - INFO - New trailers found for 2 x 6 of The 100
+2024-01-10 11:33:35,555 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:35,642 - INFO - Notification already exists
+2024-01-10 11:33:35,686 - INFO - Notification already exists
+2024-01-10 11:33:35,728 - INFO - Notification already exists
+2024-01-10 11:33:35,728 - INFO - New trailers found for 2 x 7 of The 100
+2024-01-10 11:33:36,472 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:36,672 - INFO - Notification already exists
+2024-01-10 11:33:36,747 - INFO - Notification already exists
+2024-01-10 11:33:36,835 - INFO - Notification already exists
+2024-01-10 11:33:36,835 - INFO - New trailers found for 2 x 8 of The 100
+2024-01-10 11:33:37,636 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:37,820 - INFO - Notification already exists
+2024-01-10 11:33:37,876 - INFO - Notification already exists
+2024-01-10 11:33:37,927 - INFO - Notification already exists
+2024-01-10 11:33:37,927 - INFO - New trailers found for 2 x 9 of The 100
+2024-01-10 11:33:38,618 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:39,198 - INFO - Notification already exists
+2024-01-10 11:33:39,198 - INFO - New trailers found for 2 x 10 of The 100
+2024-01-10 11:33:40,007 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:40,105 - INFO - Notification already exists
+2024-01-10 11:33:40,161 - INFO - Notification already exists
+2024-01-10 11:33:40,276 - INFO - New trailers found for 2 x 11 of The 100
+2024-01-10 11:33:41,092 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:41,205 - INFO - Notification already exists
+2024-01-10 11:33:41,253 - INFO - Notification already exists
+2024-01-10 11:33:41,300 - INFO - Notification already exists
+2024-01-10 11:33:41,300 - INFO - New trailers found for 2 x 12 of The 100
+2024-01-10 11:33:42,240 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:42,356 - INFO - Notification already exists
+2024-01-10 11:33:42,401 - INFO - Notification already exists
+2024-01-10 11:33:42,449 - INFO - Notification already exists
+2024-01-10 11:33:42,449 - INFO - New trailers found for 2 x 13 of The 100
+2024-01-10 11:33:43,121 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:43,215 - INFO - Notification already exists
+2024-01-10 11:33:43,267 - INFO - Notification already exists
+2024-01-10 11:33:43,367 - INFO - New trailers found for 2 x 14 of The 100
+2024-01-10 11:33:44,007 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:44,154 - INFO - Notification already exists
+2024-01-10 11:33:44,209 - INFO - Notification already exists
+2024-01-10 11:33:44,263 - INFO - Notification already exists
+2024-01-10 11:33:44,263 - INFO - New trailers found for 2 x 15 of The 100
+2024-01-10 11:33:45,056 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:45,160 - INFO - Notification already exists
+2024-01-10 11:33:45,210 - INFO - Notification already exists
+2024-01-10 11:33:45,261 - INFO - Notification already exists
+2024-01-10 11:33:45,261 - INFO - New trailers found for 2 x 16 of The 100
+2024-01-10 11:33:45,986 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:46,154 - INFO - Notification already exists
+2024-01-10 11:33:46,207 - INFO - Notification already exists
+2024-01-10 11:33:46,259 - INFO - Notification already exists
+2024-01-10 11:33:46,259 - INFO - New trailers found for 3 x 1 of The 100
+2024-01-10 11:33:46,934 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:47,071 - INFO - Notification already exists
+2024-01-10 11:33:47,124 - INFO - Notification already exists
+2024-01-10 11:33:47,227 - INFO - New trailers found for 3 x 2 of The 100
+2024-01-10 11:33:47,914 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:48,083 - INFO - Notification already exists
+2024-01-10 11:33:48,132 - INFO - Notification already exists
+2024-01-10 11:33:48,184 - INFO - Notification already exists
+2024-01-10 11:33:48,184 - INFO - New trailers found for 3 x 3 of The 100
+2024-01-10 11:33:48,910 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:49,175 - INFO - Notification already exists
+2024-01-10 11:33:49,232 - INFO - Notification already exists
+2024-01-10 11:33:49,279 - INFO - Notification already exists
+2024-01-10 11:33:49,279 - INFO - New trailers found for 3 x 4 of The 100
+2024-01-10 11:33:50,071 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:50,176 - INFO - Notification already exists
+2024-01-10 11:33:50,224 - INFO - Notification already exists
+2024-01-10 11:33:50,375 - INFO - New trailers found for 3 x 5 of The 100
+2024-01-10 11:33:51,108 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:51,228 - INFO - Notification already exists
+2024-01-10 11:33:51,272 - INFO - Notification already exists
+2024-01-10 11:33:51,320 - INFO - Notification already exists
+2024-01-10 11:33:51,321 - INFO - New trailers found for 3 x 6 of The 100
+2024-01-10 11:33:52,003 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:52,314 - INFO - Notification already exists
+2024-01-10 11:33:52,365 - INFO - Notification already exists
+2024-01-10 11:33:52,414 - INFO - Notification already exists
+2024-01-10 11:33:52,414 - INFO - New trailers found for 3 x 7 of The 100
+2024-01-10 11:33:53,050 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:53,172 - INFO - Notification already exists
+2024-01-10 11:33:53,225 - INFO - Notification already exists
+2024-01-10 11:33:53,273 - INFO - Notification already exists
+2024-01-10 11:33:53,273 - INFO - New trailers found for 3 x 8 of The 100
+2024-01-10 11:33:53,938 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:54,052 - INFO - Notification already exists
+2024-01-10 11:33:54,105 - INFO - Notification already exists
+2024-01-10 11:33:54,158 - INFO - Notification already exists
+2024-01-10 11:33:54,158 - INFO - New trailers found for 3 x 9 of The 100
+2024-01-10 11:33:54,837 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:54,949 - INFO - Notification already exists
+2024-01-10 11:33:54,995 - INFO - Notification already exists
+2024-01-10 11:33:55,042 - INFO - Notification already exists
+2024-01-10 11:33:55,042 - INFO - New trailers found for 3 x 10 of The 100
+2024-01-10 11:33:55,708 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:55,827 - INFO - Notification already exists
+2024-01-10 11:33:55,874 - INFO - Notification already exists
+2024-01-10 11:33:55,930 - INFO - Notification already exists
+2024-01-10 11:33:55,930 - INFO - New trailers found for 3 x 11 of The 100
+2024-01-10 11:33:56,588 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:56,708 - INFO - Notification already exists
+2024-01-10 11:33:56,761 - INFO - Notification already exists
+2024-01-10 11:33:56,826 - INFO - Notification already exists
+2024-01-10 11:33:56,826 - INFO - New trailers found for 3 x 12 of The 100
+2024-01-10 11:33:57,469 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:57,608 - INFO - Notification already exists
+2024-01-10 11:33:57,662 - INFO - Notification already exists
+2024-01-10 11:33:57,726 - INFO - Notification already exists
+2024-01-10 11:33:57,726 - INFO - New trailers found for 3 x 13 of The 100
+2024-01-10 11:33:58,471 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:58,576 - INFO - Notification already exists
+2024-01-10 11:33:58,630 - INFO - Notification already exists
+2024-01-10 11:33:58,675 - INFO - Notification already exists
+2024-01-10 11:33:58,675 - INFO - New trailers found for 3 x 14 of The 100
+2024-01-10 11:33:59,295 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:33:59,423 - INFO - Notification already exists
+2024-01-10 11:33:59,476 - INFO - Notification already exists
+2024-01-10 11:33:59,529 - INFO - Notification already exists
+2024-01-10 11:33:59,529 - INFO - New trailers found for 3 x 15 of The 100
+2024-01-10 11:34:00,184 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:00,301 - INFO - Notification already exists
+2024-01-10 11:34:00,365 - INFO - Notification already exists
+2024-01-10 11:34:00,479 - INFO - Notification already exists
+2024-01-10 11:34:00,479 - INFO - New trailers found for 3 x 16 of The 100
+2024-01-10 11:34:01,178 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:01,300 - INFO - Notification already exists
+2024-01-10 11:34:01,355 - INFO - Notification already exists
+2024-01-10 11:34:01,402 - INFO - Notification already exists
+2024-01-10 11:34:01,402 - INFO - New trailers found for 4 x 1 of The 100
+2024-01-10 11:34:02,046 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:02,173 - INFO - Notification already exists
+2024-01-10 11:34:02,217 - INFO - Notification already exists
+2024-01-10 11:34:02,365 - INFO - Notification already exists
+2024-01-10 11:34:02,365 - INFO - New trailers found for 4 x 2 of The 100
+2024-01-10 11:34:03,040 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:03,158 - INFO - Notification already exists
+2024-01-10 11:34:03,208 - INFO - Notification already exists
+2024-01-10 11:34:03,270 - INFO - Notification already exists
+2024-01-10 11:34:03,270 - INFO - New trailers found for 4 x 3 of The 100
+2024-01-10 11:34:03,895 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:04,004 - INFO - Notification already exists
+2024-01-10 11:34:04,054 - INFO - Notification already exists
+2024-01-10 11:34:04,099 - INFO - Notification already exists
+2024-01-10 11:34:04,099 - INFO - New trailers found for 4 x 4 of The 100
+2024-01-10 11:34:04,742 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:04,888 - INFO - Notification already exists
+2024-01-10 11:34:04,945 - INFO - Notification already exists
+2024-01-10 11:34:05,001 - INFO - Notification already exists
+2024-01-10 11:34:05,001 - INFO - New trailers found for 4 x 5 of The 100
+2024-01-10 11:34:05,853 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:05,965 - INFO - Notification already exists
+2024-01-10 11:34:06,023 - INFO - Notification already exists
+2024-01-10 11:34:06,072 - INFO - Notification already exists
+2024-01-10 11:34:06,072 - INFO - New trailers found for 4 x 6 of The 100
+2024-01-10 11:34:07,000 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:07,115 - INFO - Notification already exists
+2024-01-10 11:34:07,179 - INFO - Notification already exists
+2024-01-10 11:34:07,285 - INFO - New trailers found for 4 x 7 of The 100
+2024-01-10 11:34:08,292 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:08,437 - INFO - Notification already exists
+2024-01-10 11:34:08,501 - INFO - Notification already exists
+2024-01-10 11:34:08,559 - INFO - Notification already exists
+2024-01-10 11:34:08,559 - INFO - New trailers found for 4 x 8 of The 100
+2024-01-10 11:34:09,469 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:09,604 - INFO - Notification already exists
+2024-01-10 11:34:09,731 - INFO - Notification already exists
+2024-01-10 11:34:09,805 - INFO - Notification already exists
+2024-01-10 11:34:09,805 - INFO - New trailers found for 4 x 9 of The 100
+2024-01-10 11:34:11,394 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:11,535 - INFO - Notification already exists
+2024-01-10 11:34:11,704 - INFO - Notification already exists
+2024-01-10 11:34:11,777 - INFO - Notification already exists
+2024-01-10 11:34:11,777 - INFO - New trailers found for 4 x 10 of The 100
+2024-01-10 11:34:12,649 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:12,837 - INFO - Notification already exists
+2024-01-10 11:34:12,896 - INFO - Notification already exists
+2024-01-10 11:34:12,952 - INFO - Notification already exists
+2024-01-10 11:34:12,952 - INFO - New trailers found for 4 x 11 of The 100
+2024-01-10 11:34:13,892 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:13,998 - INFO - Notification already exists
+2024-01-10 11:34:14,057 - INFO - Notification already exists
+2024-01-10 11:34:14,113 - INFO - Notification already exists
+2024-01-10 11:34:14,116 - INFO - New trailers found for 4 x 12 of The 100
+2024-01-10 11:34:15,034 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:15,275 - INFO - Notification already exists
+2024-01-10 11:34:15,357 - INFO - Notification already exists
+2024-01-10 11:34:15,429 - INFO - Notification already exists
+2024-01-10 11:34:15,429 - INFO - New trailers found for 4 x 13 of The 100
+2024-01-10 11:34:16,425 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:16,544 - INFO - Notification already exists
+2024-01-10 11:34:16,609 - INFO - Notification already exists
+2024-01-10 11:34:16,670 - INFO - Notification already exists
+2024-01-10 11:34:16,670 - INFO - New trailers found for 5 x 1 of The 100
+2024-01-10 11:34:17,660 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:17,777 - INFO - Notification already exists
+2024-01-10 11:34:17,832 - INFO - Notification already exists
+2024-01-10 11:34:17,888 - INFO - Notification already exists
+2024-01-10 11:34:17,888 - INFO - New trailers found for 5 x 2 of The 100
+2024-01-10 11:34:18,874 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:19,029 - INFO - Notification already exists
+2024-01-10 11:34:19,088 - INFO - Notification already exists
+2024-01-10 11:34:19,149 - INFO - Notification already exists
+2024-01-10 11:34:19,149 - INFO - New trailers found for 5 x 3 of The 100
+2024-01-10 11:34:20,100 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:20,284 - INFO - Notification already exists
+2024-01-10 11:34:20,329 - INFO - Notification already exists
+2024-01-10 11:34:20,383 - INFO - Notification already exists
+2024-01-10 11:34:20,383 - INFO - New trailers found for 5 x 4 of The 100
+2024-01-10 11:34:21,283 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:21,415 - INFO - Notification already exists
+2024-01-10 11:34:21,594 - INFO - Notification already exists
+2024-01-10 11:34:21,668 - INFO - Notification already exists
+2024-01-10 11:34:21,668 - INFO - New trailers found for 5 x 5 of The 100
+2024-01-10 11:34:22,879 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:23,039 - INFO - Notification already exists
+2024-01-10 11:34:23,092 - INFO - Notification already exists
+2024-01-10 11:34:23,149 - INFO - Notification already exists
+2024-01-10 11:34:23,149 - INFO - New trailers found for 5 x 6 of The 100
+2024-01-10 11:34:24,346 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:24,491 - INFO - Notification already exists
+2024-01-10 11:34:24,616 - INFO - Notification already exists
+2024-01-10 11:34:24,757 - INFO - New trailers found for 5 x 7 of The 100
+2024-01-10 11:34:26,196 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:26,342 - INFO - Notification already exists
+2024-01-10 11:34:26,400 - INFO - Notification already exists
+2024-01-10 11:34:26,454 - INFO - Notification already exists
+2024-01-10 11:34:26,454 - INFO - New trailers found for 5 x 8 of The 100
+2024-01-10 11:34:27,374 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:27,491 - INFO - Notification already exists
+2024-01-10 11:34:27,571 - INFO - Notification already exists
+2024-01-10 11:34:27,646 - INFO - Notification already exists
+2024-01-10 11:34:27,646 - INFO - New trailers found for 5 x 9 of The 100
+2024-01-10 11:34:28,524 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:28,636 - INFO - Notification already exists
+2024-01-10 11:34:28,707 - INFO - Notification already exists
+2024-01-10 11:34:28,767 - INFO - Notification already exists
+2024-01-10 11:34:28,767 - INFO - New trailers found for 5 x 10 of The 100
+2024-01-10 11:34:29,706 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:29,852 - INFO - Notification already exists
+2024-01-10 11:34:29,909 - INFO - Notification already exists
+2024-01-10 11:34:29,973 - INFO - Notification already exists
+2024-01-10 11:34:29,973 - INFO - New trailers found for 5 x 11 of The 100
+2024-01-10 11:34:30,966 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:31,082 - INFO - Notification already exists
+2024-01-10 11:34:31,159 - INFO - Notification already exists
+2024-01-10 11:34:31,221 - INFO - Notification already exists
+2024-01-10 11:34:31,221 - INFO - New trailers found for 5 x 12 of The 100
+2024-01-10 11:34:32,197 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:32,310 - INFO - Notification already exists
+2024-01-10 11:34:32,365 - INFO - Notification already exists
+2024-01-10 11:34:32,532 - INFO - New trailers found for 5 x 13 of The 100
+2024-01-10 11:34:33,216 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:33,317 - INFO - Notification already exists
+2024-01-10 11:34:33,366 - INFO - Notification already exists
+2024-01-10 11:34:33,415 - INFO - Notification already exists
+2024-01-10 11:34:33,415 - INFO - New trailers found for 6 x 1 of The 100
+2024-01-10 11:34:34,093 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:34,201 - INFO - Notification already exists
+2024-01-10 11:34:34,250 - INFO - Notification already exists
+2024-01-10 11:34:34,300 - INFO - Notification already exists
+2024-01-10 11:34:34,300 - INFO - New trailers found for 6 x 2 of The 100
+2024-01-10 11:34:34,930 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:35,129 - INFO - Notification already exists
+2024-01-10 11:34:35,183 - INFO - Notification already exists
+2024-01-10 11:34:35,252 - INFO - Notification already exists
+2024-01-10 11:34:35,252 - INFO - New trailers found for 6 x 3 of The 100
+2024-01-10 11:34:35,933 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:36,111 - INFO - Notification already exists
+2024-01-10 11:34:36,158 - INFO - Notification already exists
+2024-01-10 11:34:36,212 - INFO - Notification already exists
+2024-01-10 11:34:36,212 - INFO - New trailers found for 6 x 4 of The 100
+2024-01-10 11:34:36,831 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:37,080 - INFO - Notification already exists
+2024-01-10 11:34:37,137 - INFO - Notification already exists
+2024-01-10 11:34:37,205 - INFO - Notification already exists
+2024-01-10 11:34:37,205 - INFO - New trailers found for 6 x 5 of The 100
+2024-01-10 11:34:37,922 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:38,026 - INFO - Notification already exists
+2024-01-10 11:34:38,071 - INFO - Notification already exists
+2024-01-10 11:34:38,114 - INFO - Notification already exists
+2024-01-10 11:34:38,114 - INFO - New trailers found for 6 x 6 of The 100
+2024-01-10 11:34:38,753 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:38,880 - INFO - Notification already exists
+2024-01-10 11:34:38,930 - INFO - Notification already exists
+2024-01-10 11:34:38,983 - INFO - Notification already exists
+2024-01-10 11:34:38,983 - INFO - New trailers found for 6 x 7 of The 100
+2024-01-10 11:34:39,756 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:39,909 - INFO - Notification already exists
+2024-01-10 11:34:39,959 - INFO - Notification already exists
+2024-01-10 11:34:40,006 - INFO - Notification already exists
+2024-01-10 11:34:40,006 - INFO - New trailers found for 6 x 8 of The 100
+2024-01-10 11:34:40,680 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:40,829 - INFO - Notification already exists
+2024-01-10 11:34:40,873 - INFO - Notification already exists
+2024-01-10 11:34:40,937 - INFO - Notification already exists
+2024-01-10 11:34:40,937 - INFO - New trailers found for 6 x 9 of The 100
+2024-01-10 11:34:41,616 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:41,705 - INFO - Notification already exists
+2024-01-10 11:34:41,747 - INFO - Notification already exists
+2024-01-10 11:34:41,791 - INFO - Notification already exists
+2024-01-10 11:34:41,791 - INFO - New trailers found for 6 x 10 of The 100
+2024-01-10 11:34:42,481 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:42,584 - INFO - Notification already exists
+2024-01-10 11:34:42,630 - INFO - Notification already exists
+2024-01-10 11:34:42,681 - INFO - Notification already exists
+2024-01-10 11:34:42,681 - INFO - New trailers found for 6 x 11 of The 100
+2024-01-10 11:34:43,305 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:43,420 - INFO - Notification already exists
+2024-01-10 11:34:43,592 - INFO - Notification already exists
+2024-01-10 11:34:43,592 - INFO - New trailers found for 6 x 12 of The 100
+2024-01-10 11:34:44,293 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:44,379 - INFO - Notification already exists
+2024-01-10 11:34:44,423 - INFO - Notification already exists
+2024-01-10 11:34:44,469 - INFO - Notification already exists
+2024-01-10 11:34:44,469 - INFO - New trailers found for 6 x 13 of The 100
+2024-01-10 11:34:45,139 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:45,337 - INFO - Notification already exists
+2024-01-10 11:34:45,566 - INFO - New trailers found for 7 x 1 of The 100
+2024-01-10 11:34:46,283 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:46,381 - INFO - Notification already exists
+2024-01-10 11:34:46,427 - INFO - Notification already exists
+2024-01-10 11:34:46,521 - INFO - New trailers found for 7 x 2 of The 100
+2024-01-10 11:34:47,158 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:47,408 - INFO - Notification already exists
+2024-01-10 11:34:47,516 - INFO - Notification already exists
+2024-01-10 11:34:47,738 - INFO - New trailers found for 7 x 3 of The 100
+2024-01-10 11:34:48,409 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:48,507 - INFO - Notification already exists
+2024-01-10 11:34:48,560 - INFO - Notification already exists
+2024-01-10 11:34:48,617 - INFO - Notification already exists
+2024-01-10 11:34:48,618 - INFO - New trailers found for 7 x 4 of The 100
+2024-01-10 11:34:49,337 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:49,426 - INFO - Notification already exists
+2024-01-10 11:34:49,467 - INFO - Notification already exists
+2024-01-10 11:34:49,523 - INFO - Notification already exists
+2024-01-10 11:34:49,523 - INFO - New trailers found for 7 x 5 of The 100
+2024-01-10 11:34:50,247 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:50,376 - INFO - Notification already exists
+2024-01-10 11:34:50,423 - INFO - Notification already exists
+2024-01-10 11:34:50,512 - INFO - New trailers found for 7 x 6 of The 100
+2024-01-10 11:34:51,123 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:51,222 - INFO - Notification already exists
+2024-01-10 11:34:51,266 - INFO - Notification already exists
+2024-01-10 11:34:51,315 - INFO - Notification already exists
+2024-01-10 11:34:51,315 - INFO - New trailers found for 7 x 7 of The 100
+2024-01-10 11:34:52,052 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:52,180 - INFO - Notification already exists
+2024-01-10 11:34:52,338 - INFO - Notification already exists
+2024-01-10 11:34:52,403 - INFO - Notification already exists
+2024-01-10 11:34:52,403 - INFO - New trailers found for 7 x 8 of The 100
+2024-01-10 11:34:53,647 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:53,800 - INFO - Notification already exists
+2024-01-10 11:34:53,856 - INFO - Notification already exists
+2024-01-10 11:34:53,921 - INFO - Notification already exists
+2024-01-10 11:34:53,921 - INFO - New trailers found for 7 x 9 of The 100
+2024-01-10 11:34:54,850 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:54,994 - INFO - Notification already exists
+2024-01-10 11:34:55,055 - INFO - Notification already exists
+2024-01-10 11:34:55,135 - INFO - Notification already exists
+2024-01-10 11:34:55,135 - INFO - New trailers found for 7 x 10 of The 100
+2024-01-10 11:34:56,123 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:56,627 - INFO - Notification already exists
+2024-01-10 11:34:56,710 - INFO - Notification already exists
+2024-01-10 11:34:56,800 - INFO - Notification already exists
+2024-01-10 11:34:56,800 - INFO - New trailers found for 7 x 11 of The 100
+2024-01-10 11:34:57,732 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:57,835 - INFO - Notification already exists
+2024-01-10 11:34:57,888 - INFO - Notification already exists
+2024-01-10 11:34:57,944 - INFO - Notification already exists
+2024-01-10 11:34:57,944 - INFO - New trailers found for 7 x 12 of The 100
+2024-01-10 11:34:58,853 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:34:58,965 - INFO - Notification already exists
+2024-01-10 11:34:59,144 - INFO - Notification already exists
+2024-01-10 11:34:59,144 - INFO - New trailers found for 7 x 13 of The 100
+2024-01-10 11:35:00,083 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:00,284 - INFO - Notification already exists
+2024-01-10 11:35:00,338 - INFO - Notification already exists
+2024-01-10 11:35:00,396 - INFO - Notification already exists
+2024-01-10 11:35:00,396 - INFO - New trailers found for 7 x 14 of The 100
+2024-01-10 11:35:01,296 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:01,424 - INFO - Notification already exists
+2024-01-10 11:35:01,482 - INFO - Notification already exists
+2024-01-10 11:35:01,604 - INFO - New trailers found for 7 x 15 of The 100
+2024-01-10 11:35:02,534 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:02,752 - INFO - Notification already exists
+2024-01-10 11:35:02,809 - INFO - Notification already exists
+2024-01-10 11:35:02,869 - INFO - Notification already exists
+2024-01-10 11:35:02,869 - INFO - New trailers found for 7 x 16 of The 100
+2024-01-10 11:35:17,669 - INFO - Keyboard interrupt
+2024-01-10 11:35:27,474 - INFO - Searching for new episodes for all shows
+2024-01-10 11:35:27,577 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:35:27,577 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:35:27,577 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:35:30,972 - INFO - Getting episodes of season https://www.imdb.com/title/tt3581920/episodes?season=1
+2024-01-10 11:35:32,409 - INFO - Getting episodes of season https://www.imdb.com/title/tt3581920/episodes?season=2
+2024-01-10 11:35:34,676 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:34,868 - INFO - Notification already exists
+2024-01-10 11:35:34,920 - INFO - Notification already exists
+2024-01-10 11:35:34,967 - INFO - Notification already exists
+2024-01-10 11:35:34,967 - INFO - New trailers found for 1 x 1 of The Last of Us
+2024-01-10 11:35:35,726 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:35,893 - INFO - Notification already exists
+2024-01-10 11:35:35,941 - INFO - Notification already exists
+2024-01-10 11:35:35,986 - INFO - Notification already exists
+2024-01-10 11:35:35,986 - INFO - New trailers found for 1 x 2 of The Last of Us
+2024-01-10 11:35:36,691 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:36,809 - INFO - Notification already exists
+2024-01-10 11:35:36,861 - INFO - Notification already exists
+2024-01-10 11:35:36,921 - INFO - Notification already exists
+2024-01-10 11:35:36,921 - INFO - New trailers found for 1 x 3 of The Last of Us
+2024-01-10 11:35:37,654 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:37,768 - INFO - Notification already exists
+2024-01-10 11:35:37,816 - INFO - Notification already exists
+2024-01-10 11:35:37,861 - INFO - Notification already exists
+2024-01-10 11:35:37,861 - INFO - New trailers found for 1 x 4 of The Last of Us
+2024-01-10 11:35:38,914 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:39,099 - INFO - Notification already exists
+2024-01-10 11:35:39,150 - INFO - Notification already exists
+2024-01-10 11:35:39,203 - INFO - Notification already exists
+2024-01-10 11:35:39,203 - INFO - New trailers found for 1 x 5 of The Last of Us
+2024-01-10 11:35:39,926 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:40,156 - INFO - Notification already exists
+2024-01-10 11:35:40,205 - INFO - Notification already exists
+2024-01-10 11:35:40,255 - INFO - Notification already exists
+2024-01-10 11:35:40,255 - INFO - New trailers found for 1 x 6 of The Last of Us
+2024-01-10 11:35:40,914 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:41,039 - INFO - Notification already exists
+2024-01-10 11:35:41,091 - INFO - Notification already exists
+2024-01-10 11:35:41,142 - INFO - Notification already exists
+2024-01-10 11:35:41,142 - INFO - New trailers found for 1 x 7 of The Last of Us
+2024-01-10 11:35:41,857 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:41,979 - INFO - Notification already exists
+2024-01-10 11:35:42,029 - INFO - Notification already exists
+2024-01-10 11:35:42,080 - INFO - Notification already exists
+2024-01-10 11:35:42,080 - INFO - New trailers found for 1 x 8 of The Last of Us
+2024-01-10 11:35:42,837 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:42,944 - INFO - Notification already exists
+2024-01-10 11:35:42,994 - INFO - Notification already exists
+2024-01-10 11:35:43,099 - INFO - New trailers found for 1 x 9 of The Last of Us
+2024-01-10 11:35:43,823 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:43,985 - INFO - Notification already exists
+2024-01-10 11:35:44,037 - INFO - Notification already exists
+2024-01-10 11:35:44,090 - INFO - Notification already exists
+2024-01-10 11:35:44,090 - INFO - New trailers found for 2 x 1 of The Last of Us
+2024-01-10 11:35:44,139 - INFO - Searching for new episodes for The Sopranos
+2024-01-10 11:35:44,139 - INFO - Getting episodes per season for https://www.imdb.com/title/tt0141842/
+2024-01-10 11:35:44,139 - INFO - Extracting show info from https://www.imdb.com/title/tt0141842/
+2024-01-10 11:35:49,645 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=1
+2024-01-10 11:35:51,012 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=2
+2024-01-10 11:35:52,387 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=3
+2024-01-10 11:35:53,774 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=4
+2024-01-10 11:35:55,145 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=5
+2024-01-10 11:35:56,507 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=6
+2024-01-10 11:35:58,489 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:58,632 - INFO - Notification already exists
+2024-01-10 11:35:58,684 - INFO - Notification already exists
+2024-01-10 11:35:58,736 - INFO - Notification already exists
+2024-01-10 11:35:58,736 - INFO - New trailers found for 5 x 13 of The Sopranos
+2024-01-10 11:35:59,392 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:35:59,498 - INFO - Notification already exists
+2024-01-10 11:35:59,547 - INFO - Notification already exists
+2024-01-10 11:35:59,594 - INFO - Notification already exists
+2024-01-10 11:35:59,594 - INFO - New trailers found for 6 x 1 of The Sopranos
+2024-01-10 11:36:00,310 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:00,410 - INFO - Notification already exists
+2024-01-10 11:36:00,461 - INFO - Notification already exists
+2024-01-10 11:36:00,505 - INFO - Notification already exists
+2024-01-10 11:36:00,505 - INFO - New trailers found for 6 x 2 of The Sopranos
+2024-01-10 11:36:01,234 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:01,340 - INFO - Notification already exists
+2024-01-10 11:36:01,385 - INFO - Notification already exists
+2024-01-10 11:36:01,429 - INFO - Notification already exists
+2024-01-10 11:36:01,429 - INFO - New trailers found for 6 x 3 of The Sopranos
+2024-01-10 11:36:02,174 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:02,284 - INFO - Notification already exists
+2024-01-10 11:36:02,332 - INFO - Notification already exists
+2024-01-10 11:36:02,384 - INFO - Notification already exists
+2024-01-10 11:36:02,384 - INFO - New trailers found for 6 x 4 of The Sopranos
+2024-01-10 11:36:03,013 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:03,178 - INFO - Notification already exists
+2024-01-10 11:36:03,227 - INFO - Notification already exists
+2024-01-10 11:36:03,275 - INFO - Notification already exists
+2024-01-10 11:36:03,275 - INFO - New trailers found for 6 x 5 of The Sopranos
+2024-01-10 11:36:03,954 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:04,147 - INFO - Notification already exists
+2024-01-10 11:36:04,198 - INFO - Notification already exists
+2024-01-10 11:36:04,250 - INFO - Notification already exists
+2024-01-10 11:36:04,250 - INFO - New trailers found for 6 x 6 of The Sopranos
+2024-01-10 11:36:04,871 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:05,087 - INFO - Notification already exists
+2024-01-10 11:36:05,132 - INFO - Notification already exists
+2024-01-10 11:36:05,176 - INFO - Notification already exists
+2024-01-10 11:36:05,176 - INFO - New trailers found for 6 x 7 of The Sopranos
+2024-01-10 11:36:05,964 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:06,110 - INFO - Notification already exists
+2024-01-10 11:36:06,157 - INFO - Notification already exists
+2024-01-10 11:36:06,201 - INFO - Notification already exists
+2024-01-10 11:36:06,202 - INFO - New trailers found for 6 x 8 of The Sopranos
+2024-01-10 11:36:06,925 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:07,064 - INFO - Notification already exists
+2024-01-10 11:36:07,113 - INFO - Notification already exists
+2024-01-10 11:36:07,162 - INFO - Notification already exists
+2024-01-10 11:36:07,162 - INFO - New trailers found for 6 x 9 of The Sopranos
+2024-01-10 11:36:07,806 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:07,949 - INFO - Notification already exists
+2024-01-10 11:36:08,000 - INFO - Notification already exists
+2024-01-10 11:36:08,046 - INFO - Notification already exists
+2024-01-10 11:36:08,046 - INFO - New trailers found for 6 x 10 of The Sopranos
+2024-01-10 11:36:08,708 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:08,805 - INFO - Notification already exists
+2024-01-10 11:36:08,850 - INFO - Notification already exists
+2024-01-10 11:36:08,895 - INFO - Notification already exists
+2024-01-10 11:36:08,895 - INFO - New trailers found for 6 x 11 of The Sopranos
+2024-01-10 11:36:09,549 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:09,649 - INFO - Notification already exists
+2024-01-10 11:36:09,704 - INFO - Notification already exists
+2024-01-10 11:36:09,755 - INFO - Notification already exists
+2024-01-10 11:36:09,755 - INFO - New trailers found for 6 x 12 of The Sopranos
+2024-01-10 11:36:10,460 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:10,564 - INFO - Notification already exists
+2024-01-10 11:36:10,614 - INFO - Notification already exists
+2024-01-10 11:36:10,665 - INFO - Notification already exists
+2024-01-10 11:36:10,665 - INFO - New trailers found for 6 x 13 of The Sopranos
+2024-01-10 11:36:11,277 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:11,392 - INFO - Notification already exists
+2024-01-10 11:36:11,439 - INFO - Notification already exists
+2024-01-10 11:36:11,498 - INFO - Notification already exists
+2024-01-10 11:36:11,498 - INFO - New trailers found for 6 x 14 of The Sopranos
+2024-01-10 11:36:12,180 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:12,307 - INFO - Notification already exists
+2024-01-10 11:36:12,357 - INFO - Notification already exists
+2024-01-10 11:36:12,408 - INFO - Notification already exists
+2024-01-10 11:36:12,408 - INFO - New trailers found for 6 x 15 of The Sopranos
+2024-01-10 11:36:13,053 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:13,145 - INFO - Notification already exists
+2024-01-10 11:36:13,202 - INFO - Notification already exists
+2024-01-10 11:36:13,250 - INFO - Notification already exists
+2024-01-10 11:36:13,250 - INFO - New trailers found for 6 x 16 of The Sopranos
+2024-01-10 11:36:13,891 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:13,987 - INFO - Notification already exists
+2024-01-10 11:36:14,033 - INFO - Notification already exists
+2024-01-10 11:36:14,079 - INFO - Notification already exists
+2024-01-10 11:36:14,079 - INFO - New trailers found for 6 x 17 of The Sopranos
+2024-01-10 11:36:14,705 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:14,803 - INFO - Notification already exists
+2024-01-10 11:36:14,852 - INFO - Notification already exists
+2024-01-10 11:36:14,902 - INFO - Notification already exists
+2024-01-10 11:36:14,902 - INFO - New trailers found for 6 x 18 of The Sopranos
+2024-01-10 11:36:15,521 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:15,616 - INFO - Notification already exists
+2024-01-10 11:36:15,670 - INFO - Notification already exists
+2024-01-10 11:36:15,724 - INFO - Notification already exists
+2024-01-10 11:36:15,724 - INFO - New trailers found for 6 x 19 of The Sopranos
+2024-01-10 11:36:16,359 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:16,483 - INFO - Notification already exists
+2024-01-10 11:36:16,545 - INFO - Notification already exists
+2024-01-10 11:36:16,609 - INFO - Notification already exists
+2024-01-10 11:36:16,609 - INFO - New trailers found for 6 x 20 of The Sopranos
+2024-01-10 11:36:17,302 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:17,441 - INFO - Notification already exists
+2024-01-10 11:36:17,493 - INFO - Notification already exists
+2024-01-10 11:36:17,545 - INFO - Notification already exists
+2024-01-10 11:36:17,545 - INFO - New trailers found for 6 x 21 of The Sopranos
+2024-01-10 11:36:17,603 - INFO - Searching for new episodes for Ahsoka
+2024-01-10 11:36:17,603 - INFO - Getting episodes per season for https://www.imdb.com/title/tt30192148/
+2024-01-10 11:36:17,603 - INFO - Extracting show info from https://www.imdb.com/title/tt30192148/
+2024-01-10 11:36:20,283 - INFO - Getting episodes of season https://www.imdb.com/title/tt30192148/episodes?season=1
+2024-01-10 11:36:22,287 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:22,403 - INFO - Notification already exists
+2024-01-10 11:36:22,452 - INFO - Notification already exists
+2024-01-10 11:36:22,503 - INFO - Notification already exists
+2024-01-10 11:36:22,503 - INFO - New trailers found for 1 x 6 of Ahsoka
+2024-01-10 11:36:23,140 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:23,276 - INFO - Notification already exists
+2024-01-10 11:36:23,327 - INFO - Notification already exists
+2024-01-10 11:36:23,370 - INFO - Notification already exists
+2024-01-10 11:36:23,370 - INFO - New trailers found for 1 x 7 of Ahsoka
+2024-01-10 11:36:24,020 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:24,199 - INFO - Notification already exists
+2024-01-10 11:36:24,249 - INFO - Notification already exists
+2024-01-10 11:36:24,299 - INFO - Notification already exists
+2024-01-10 11:36:24,299 - INFO - New trailers found for 1 x 8 of Ahsoka
+2024-01-10 11:36:24,348 - INFO - Searching for new episodes for The 100
+2024-01-10 11:36:24,348 - INFO - Getting episodes per season for https://www.imdb.com/title/tt2661044/
+2024-01-10 11:36:24,348 - INFO - Extracting show info from https://www.imdb.com/title/tt2661044/
+2024-01-10 11:36:29,553 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=1
+2024-01-10 11:36:30,913 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=2
+2024-01-10 11:36:32,581 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=3
+2024-01-10 11:36:33,869 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=4
+2024-01-10 11:36:35,249 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=5
+2024-01-10 11:36:37,054 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=6
+2024-01-10 11:36:38,830 - INFO - Getting episodes of season https://www.imdb.com/title/tt2661044/episodes?season=7
+2024-01-10 11:36:41,197 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:41,338 - INFO - Notification already exists
+2024-01-10 11:36:41,384 - INFO - Notification already exists
+2024-01-10 11:36:41,427 - INFO - Notification already exists
+2024-01-10 11:36:41,427 - INFO - New trailers found for 2 x 2 of The 100
+2024-01-10 11:36:42,111 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:42,313 - INFO - Notification already exists
+2024-01-10 11:36:42,360 - INFO - Notification already exists
+2024-01-10 11:36:42,406 - INFO - Notification already exists
+2024-01-10 11:36:42,406 - INFO - New trailers found for 2 x 3 of The 100
+2024-01-10 11:36:43,018 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:43,178 - INFO - Notification already exists
+2024-01-10 11:36:43,227 - INFO - Notification already exists
+2024-01-10 11:36:43,278 - INFO - Notification already exists
+2024-01-10 11:36:43,278 - INFO - New trailers found for 2 x 4 of The 100
+2024-01-10 11:36:43,923 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:44,064 - INFO - Notification already exists
+2024-01-10 11:36:44,115 - INFO - Notification already exists
+2024-01-10 11:36:44,166 - INFO - Notification already exists
+2024-01-10 11:36:44,166 - INFO - New trailers found for 2 x 5 of The 100
+2024-01-10 11:36:44,813 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:44,911 - INFO - Notification already exists
+2024-01-10 11:36:44,958 - INFO - Notification already exists
+2024-01-10 11:36:45,011 - INFO - Notification already exists
+2024-01-10 11:36:45,011 - INFO - New trailers found for 2 x 6 of The 100
+2024-01-10 11:36:45,684 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:45,803 - INFO - Notification already exists
+2024-01-10 11:36:45,845 - INFO - Notification already exists
+2024-01-10 11:36:45,894 - INFO - Notification already exists
+2024-01-10 11:36:45,894 - INFO - New trailers found for 2 x 7 of The 100
+2024-01-10 11:36:46,550 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:46,706 - INFO - Notification already exists
+2024-01-10 11:36:46,751 - INFO - Notification already exists
+2024-01-10 11:36:46,799 - INFO - Notification already exists
+2024-01-10 11:36:46,799 - INFO - New trailers found for 2 x 8 of The 100
+2024-01-10 11:36:47,452 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:47,584 - INFO - Notification already exists
+2024-01-10 11:36:47,633 - INFO - Notification already exists
+2024-01-10 11:36:47,682 - INFO - Notification already exists
+2024-01-10 11:36:47,682 - INFO - New trailers found for 2 x 9 of The 100
+2024-01-10 11:36:48,328 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:48,499 - INFO - Notification already exists
+2024-01-10 11:36:48,548 - INFO - Notification already exists
+2024-01-10 11:36:48,603 - INFO - Notification already exists
+2024-01-10 11:36:48,603 - INFO - New trailers found for 2 x 10 of The 100
+2024-01-10 11:36:49,228 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:49,383 - INFO - Notification already exists
+2024-01-10 11:36:49,431 - INFO - Notification already exists
+2024-01-10 11:36:49,482 - INFO - Notification already exists
+2024-01-10 11:36:49,482 - INFO - New trailers found for 2 x 11 of The 100
+2024-01-10 11:36:50,129 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:50,245 - INFO - Notification already exists
+2024-01-10 11:36:50,293 - INFO - Notification already exists
+2024-01-10 11:36:50,343 - INFO - Notification already exists
+2024-01-10 11:36:50,343 - INFO - New trailers found for 2 x 12 of The 100
+2024-01-10 11:36:51,274 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:51,387 - INFO - Notification already exists
+2024-01-10 11:36:51,451 - INFO - Notification already exists
+2024-01-10 11:36:51,497 - INFO - Notification already exists
+2024-01-10 11:36:51,497 - INFO - New trailers found for 2 x 13 of The 100
+2024-01-10 11:36:52,114 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:52,209 - INFO - Notification already exists
+2024-01-10 11:36:52,258 - INFO - Notification already exists
+2024-01-10 11:36:52,306 - INFO - Notification already exists
+2024-01-10 11:36:52,306 - INFO - New trailers found for 2 x 14 of The 100
+2024-01-10 11:36:52,928 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:53,060 - INFO - Notification already exists
+2024-01-10 11:36:53,105 - INFO - Notification already exists
+2024-01-10 11:36:53,146 - INFO - Notification already exists
+2024-01-10 11:36:53,146 - INFO - New trailers found for 2 x 15 of The 100
+2024-01-10 11:36:53,781 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:53,889 - INFO - Notification already exists
+2024-01-10 11:36:53,937 - INFO - Notification already exists
+2024-01-10 11:36:53,981 - INFO - Notification already exists
+2024-01-10 11:36:53,981 - INFO - New trailers found for 2 x 16 of The 100
+2024-01-10 11:36:54,772 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:54,988 - INFO - Notification already exists
+2024-01-10 11:36:55,038 - INFO - Notification already exists
+2024-01-10 11:36:55,089 - INFO - Notification already exists
+2024-01-10 11:36:55,089 - INFO - New trailers found for 3 x 1 of The 100
+2024-01-10 11:36:55,732 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:55,831 - INFO - Notification already exists
+2024-01-10 11:36:55,880 - INFO - Notification already exists
+2024-01-10 11:36:55,926 - INFO - Notification already exists
+2024-01-10 11:36:55,926 - INFO - New trailers found for 3 x 2 of The 100
+2024-01-10 11:36:56,828 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:56,957 - INFO - Notification already exists
+2024-01-10 11:36:57,006 - INFO - Notification already exists
+2024-01-10 11:36:57,060 - INFO - Notification already exists
+2024-01-10 11:36:57,060 - INFO - New trailers found for 3 x 3 of The 100
+2024-01-10 11:36:57,682 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:57,790 - INFO - Notification already exists
+2024-01-10 11:36:57,834 - INFO - Notification already exists
+2024-01-10 11:36:57,880 - INFO - Notification already exists
+2024-01-10 11:36:57,880 - INFO - New trailers found for 3 x 4 of The 100
+2024-01-10 11:36:58,641 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:58,811 - INFO - Notification already exists
+2024-01-10 11:36:58,870 - INFO - Notification already exists
+2024-01-10 11:36:58,916 - INFO - Notification already exists
+2024-01-10 11:36:58,916 - INFO - New trailers found for 3 x 5 of The 100
+2024-01-10 11:36:59,848 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:36:59,984 - INFO - Notification already exists
+2024-01-10 11:37:00,143 - INFO - Notification already exists
+2024-01-10 11:37:00,196 - INFO - Notification already exists
+2024-01-10 11:37:00,196 - INFO - New trailers found for 3 x 6 of The 100
+2024-01-10 11:37:00,939 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:01,052 - INFO - Notification already exists
+2024-01-10 11:37:01,096 - INFO - Notification already exists
+2024-01-10 11:37:01,145 - INFO - Notification already exists
+2024-01-10 11:37:01,145 - INFO - New trailers found for 3 x 7 of The 100
+2024-01-10 11:37:02,428 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:02,528 - INFO - Notification already exists
+2024-01-10 11:37:02,579 - INFO - Notification already exists
+2024-01-10 11:37:02,632 - INFO - Notification already exists
+2024-01-10 11:37:02,632 - INFO - New trailers found for 3 x 8 of The 100
+2024-01-10 11:37:03,286 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:03,385 - INFO - Notification already exists
+2024-01-10 11:37:03,436 - INFO - Notification already exists
+2024-01-10 11:37:03,489 - INFO - Notification already exists
+2024-01-10 11:37:03,489 - INFO - New trailers found for 3 x 9 of The 100
+2024-01-10 11:37:04,126 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:04,222 - INFO - Notification already exists
+2024-01-10 11:37:04,271 - INFO - Notification already exists
+2024-01-10 11:37:04,318 - INFO - Notification already exists
+2024-01-10 11:37:04,318 - INFO - New trailers found for 3 x 10 of The 100
+2024-01-10 11:37:05,146 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:05,266 - INFO - Notification already exists
+2024-01-10 11:37:05,313 - INFO - Notification already exists
+2024-01-10 11:37:05,360 - INFO - Notification already exists
+2024-01-10 11:37:05,360 - INFO - New trailers found for 3 x 11 of The 100
+2024-01-10 11:37:06,013 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:06,131 - INFO - Notification already exists
+2024-01-10 11:37:06,176 - INFO - Notification already exists
+2024-01-10 11:37:06,223 - INFO - Notification already exists
+2024-01-10 11:37:06,223 - INFO - New trailers found for 3 x 12 of The 100
+2024-01-10 11:37:07,040 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:07,195 - INFO - Notification already exists
+2024-01-10 11:37:07,245 - INFO - Notification already exists
+2024-01-10 11:37:07,293 - INFO - Notification already exists
+2024-01-10 11:37:07,293 - INFO - New trailers found for 3 x 13 of The 100
+2024-01-10 11:37:07,941 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:08,271 - INFO - Notification already exists
+2024-01-10 11:37:08,371 - INFO - Notification already exists
+2024-01-10 11:37:08,418 - INFO - Notification already exists
+2024-01-10 11:37:08,418 - INFO - New trailers found for 3 x 14 of The 100
+2024-01-10 11:37:08,989 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:09,117 - INFO - Notification already exists
+2024-01-10 11:37:09,165 - INFO - Notification already exists
+2024-01-10 11:37:09,216 - INFO - Notification already exists
+2024-01-10 11:37:09,216 - INFO - New trailers found for 3 x 15 of The 100
+2024-01-10 11:37:09,848 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:09,951 - INFO - Notification already exists
+2024-01-10 11:37:10,001 - INFO - Notification already exists
+2024-01-10 11:37:10,054 - INFO - Notification already exists
+2024-01-10 11:37:10,054 - INFO - New trailers found for 3 x 16 of The 100
+2024-01-10 11:37:10,779 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:10,908 - INFO - Notification already exists
+2024-01-10 11:37:10,956 - INFO - Notification already exists
+2024-01-10 11:37:10,999 - INFO - Notification already exists
+2024-01-10 11:37:10,999 - INFO - New trailers found for 4 x 1 of The 100
+2024-01-10 11:37:11,784 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:11,977 - INFO - Notification already exists
+2024-01-10 11:37:12,026 - INFO - Notification already exists
+2024-01-10 11:37:12,083 - INFO - Notification already exists
+2024-01-10 11:37:12,083 - INFO - New trailers found for 4 x 2 of The 100
+2024-01-10 11:37:13,036 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:13,149 - INFO - Notification already exists
+2024-01-10 11:37:13,217 - INFO - Notification already exists
+2024-01-10 11:37:13,279 - INFO - Notification already exists
+2024-01-10 11:37:13,279 - INFO - New trailers found for 4 x 3 of The 100
+2024-01-10 11:37:14,296 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:14,400 - INFO - Notification already exists
+2024-01-10 11:37:14,472 - INFO - Notification already exists
+2024-01-10 11:37:14,531 - INFO - Notification already exists
+2024-01-10 11:37:14,531 - INFO - New trailers found for 4 x 4 of The 100
+2024-01-10 11:37:15,465 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:15,577 - INFO - Notification already exists
+2024-01-10 11:37:15,641 - INFO - Notification already exists
+2024-01-10 11:37:15,708 - INFO - Notification already exists
+2024-01-10 11:37:15,708 - INFO - New trailers found for 4 x 5 of The 100
+2024-01-10 11:37:16,730 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:16,893 - INFO - Notification already exists
+2024-01-10 11:37:16,957 - INFO - Notification already exists
+2024-01-10 11:37:17,023 - INFO - Notification already exists
+2024-01-10 11:37:17,023 - INFO - New trailers found for 4 x 6 of The 100
+2024-01-10 11:37:17,937 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:18,060 - INFO - Notification already exists
+2024-01-10 11:37:18,127 - INFO - Notification already exists
+2024-01-10 11:37:18,184 - INFO - Notification already exists
+2024-01-10 11:37:18,184 - INFO - New trailers found for 4 x 7 of The 100
+2024-01-10 11:37:18,990 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:19,103 - INFO - Notification already exists
+2024-01-10 11:37:19,151 - INFO - Notification already exists
+2024-01-10 11:37:19,199 - INFO - Notification already exists
+2024-01-10 11:37:19,199 - INFO - New trailers found for 4 x 8 of The 100
+2024-01-10 11:37:19,835 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:19,939 - INFO - Notification already exists
+2024-01-10 11:37:19,991 - INFO - Notification already exists
+2024-01-10 11:37:20,042 - INFO - Notification already exists
+2024-01-10 11:37:20,042 - INFO - New trailers found for 4 x 9 of The 100
+2024-01-10 11:37:20,775 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:20,880 - INFO - Notification already exists
+2024-01-10 11:37:20,926 - INFO - Notification already exists
+2024-01-10 11:37:21,097 - INFO - Notification already exists
+2024-01-10 11:37:21,098 - INFO - New trailers found for 4 x 10 of The 100
+2024-01-10 11:37:22,021 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:22,132 - INFO - Notification already exists
+2024-01-10 11:37:22,190 - INFO - Notification already exists
+2024-01-10 11:37:22,245 - INFO - Notification already exists
+2024-01-10 11:37:22,246 - INFO - New trailers found for 4 x 11 of The 100
+2024-01-10 11:37:23,165 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:23,281 - INFO - Notification already exists
+2024-01-10 11:37:23,354 - INFO - Notification already exists
+2024-01-10 11:37:23,448 - INFO - Notification already exists
+2024-01-10 11:37:23,449 - INFO - New trailers found for 4 x 12 of The 100
+2024-01-10 11:37:24,128 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:24,273 - INFO - Notification already exists
+2024-01-10 11:37:24,337 - INFO - Notification already exists
+2024-01-10 11:37:24,408 - INFO - Notification already exists
+2024-01-10 11:37:24,408 - INFO - New trailers found for 4 x 13 of The 100
+2024-01-10 11:37:25,244 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:25,386 - INFO - Notification already exists
+2024-01-10 11:37:25,454 - INFO - Notification already exists
+2024-01-10 11:37:25,518 - INFO - Notification already exists
+2024-01-10 11:37:25,518 - INFO - New trailers found for 5 x 1 of The 100
+2024-01-10 11:37:26,150 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:26,322 - INFO - Notification already exists
+2024-01-10 11:37:26,381 - INFO - Notification already exists
+2024-01-10 11:37:26,427 - INFO - Notification already exists
+2024-01-10 11:37:26,427 - INFO - New trailers found for 5 x 2 of The 100
+2024-01-10 11:37:27,041 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:27,172 - INFO - Notification already exists
+2024-01-10 11:37:27,219 - INFO - Notification already exists
+2024-01-10 11:37:27,268 - INFO - Notification already exists
+2024-01-10 11:37:27,268 - INFO - New trailers found for 5 x 3 of The 100
+2024-01-10 11:37:27,848 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:28,001 - INFO - Notification already exists
+2024-01-10 11:37:28,065 - INFO - Notification already exists
+2024-01-10 11:37:28,126 - INFO - Notification already exists
+2024-01-10 11:37:28,126 - INFO - New trailers found for 5 x 4 of The 100
+2024-01-10 11:37:28,818 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:29,031 - INFO - Notification already exists
+2024-01-10 11:37:29,103 - INFO - Notification already exists
+2024-01-10 11:37:29,177 - INFO - Notification already exists
+2024-01-10 11:37:29,177 - INFO - New trailers found for 5 x 5 of The 100
+2024-01-10 11:37:29,899 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:30,152 - INFO - Notification already exists
+2024-01-10 11:37:30,255 - INFO - Notification already exists
+2024-01-10 11:37:30,320 - INFO - Notification already exists
+2024-01-10 11:37:30,320 - INFO - New trailers found for 5 x 6 of The 100
+2024-01-10 11:37:30,994 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:31,096 - INFO - Notification already exists
+2024-01-10 11:37:31,145 - INFO - Notification already exists
+2024-01-10 11:37:31,194 - INFO - Notification already exists
+2024-01-10 11:37:31,194 - INFO - New trailers found for 5 x 7 of The 100
+2024-01-10 11:37:32,157 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:32,314 - INFO - Notification already exists
+2024-01-10 11:37:32,362 - INFO - Notification already exists
+2024-01-10 11:37:32,411 - INFO - Notification already exists
+2024-01-10 11:37:32,411 - INFO - New trailers found for 5 x 8 of The 100
+2024-01-10 11:37:33,072 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:33,194 - INFO - Notification already exists
+2024-01-10 11:37:33,245 - INFO - Notification already exists
+2024-01-10 11:37:33,294 - INFO - Notification already exists
+2024-01-10 11:37:33,294 - INFO - New trailers found for 5 x 9 of The 100
+2024-01-10 11:37:33,950 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:34,046 - INFO - Notification already exists
+2024-01-10 11:37:34,096 - INFO - Notification already exists
+2024-01-10 11:37:34,148 - INFO - Notification already exists
+2024-01-10 11:37:34,148 - INFO - New trailers found for 5 x 10 of The 100
+2024-01-10 11:37:34,878 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:35,000 - INFO - Notification already exists
+2024-01-10 11:37:35,056 - INFO - Notification already exists
+2024-01-10 11:37:35,114 - INFO - Notification already exists
+2024-01-10 11:37:35,114 - INFO - New trailers found for 5 x 11 of The 100
+2024-01-10 11:37:35,790 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:35,885 - INFO - Notification already exists
+2024-01-10 11:37:35,937 - INFO - Notification already exists
+2024-01-10 11:37:35,985 - INFO - Notification already exists
+2024-01-10 11:37:35,985 - INFO - New trailers found for 5 x 12 of The 100
+2024-01-10 11:37:36,620 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:36,709 - INFO - Notification already exists
+2024-01-10 11:37:36,761 - INFO - Notification already exists
+2024-01-10 11:37:36,807 - INFO - Notification already exists
+2024-01-10 11:37:36,807 - INFO - New trailers found for 5 x 13 of The 100
+2024-01-10 11:37:37,454 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:37,572 - INFO - Notification already exists
+2024-01-10 11:37:37,623 - INFO - Notification already exists
+2024-01-10 11:37:37,672 - INFO - Notification already exists
+2024-01-10 11:37:37,672 - INFO - New trailers found for 6 x 1 of The 100
+2024-01-10 11:37:38,300 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:38,407 - INFO - Notification already exists
+2024-01-10 11:37:38,456 - INFO - Notification already exists
+2024-01-10 11:37:38,507 - INFO - Notification already exists
+2024-01-10 11:37:38,507 - INFO - New trailers found for 6 x 2 of The 100
+2024-01-10 11:37:39,540 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:39,658 - INFO - Notification already exists
+2024-01-10 11:37:39,706 - INFO - Notification already exists
+2024-01-10 11:37:39,755 - INFO - Notification already exists
+2024-01-10 11:37:39,755 - INFO - New trailers found for 6 x 3 of The 100
+2024-01-10 11:37:40,581 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:40,683 - INFO - Notification already exists
+2024-01-10 11:37:40,727 - INFO - Notification already exists
+2024-01-10 11:37:40,774 - INFO - Notification already exists
+2024-01-10 11:37:40,774 - INFO - New trailers found for 6 x 4 of The 100
+2024-01-10 11:37:41,731 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:41,838 - INFO - Notification already exists
+2024-01-10 11:37:41,895 - INFO - Notification already exists
+2024-01-10 11:37:41,952 - INFO - Notification already exists
+2024-01-10 11:37:41,952 - INFO - New trailers found for 6 x 5 of The 100
+2024-01-10 11:37:42,647 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:42,787 - INFO - Notification already exists
+2024-01-10 11:37:42,833 - INFO - Notification already exists
+2024-01-10 11:37:42,881 - INFO - Notification already exists
+2024-01-10 11:37:42,882 - INFO - New trailers found for 6 x 6 of The 100
+2024-01-10 11:37:43,507 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:43,612 - INFO - Notification already exists
+2024-01-10 11:37:43,663 - INFO - Notification already exists
+2024-01-10 11:37:43,713 - INFO - Notification already exists
+2024-01-10 11:37:43,713 - INFO - New trailers found for 6 x 7 of The 100
+2024-01-10 11:37:44,756 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:44,871 - INFO - Notification already exists
+2024-01-10 11:37:44,921 - INFO - Notification already exists
+2024-01-10 11:37:44,973 - INFO - Notification already exists
+2024-01-10 11:37:44,973 - INFO - New trailers found for 6 x 8 of The 100
+2024-01-10 11:37:45,656 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:45,781 - INFO - Notification already exists
+2024-01-10 11:37:45,842 - INFO - Notification already exists
+2024-01-10 11:37:45,898 - INFO - Notification already exists
+2024-01-10 11:37:45,898 - INFO - New trailers found for 6 x 9 of The 100
+2024-01-10 11:37:46,818 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:46,944 - INFO - Notification already exists
+2024-01-10 11:37:47,002 - INFO - Notification already exists
+2024-01-10 11:37:47,073 - INFO - Notification already exists
+2024-01-10 11:37:47,073 - INFO - New trailers found for 6 x 10 of The 100
+2024-01-10 11:37:47,944 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:48,087 - INFO - Notification already exists
+2024-01-10 11:37:48,147 - INFO - Notification already exists
+2024-01-10 11:37:48,207 - INFO - Notification already exists
+2024-01-10 11:37:48,207 - INFO - New trailers found for 6 x 11 of The 100
+2024-01-10 11:37:49,052 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:49,218 - INFO - Notification already exists
+2024-01-10 11:37:49,279 - INFO - Notification already exists
+2024-01-10 11:37:49,339 - INFO - Notification already exists
+2024-01-10 11:37:49,339 - INFO - New trailers found for 6 x 12 of The 100
+2024-01-10 11:37:50,217 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:50,346 - INFO - Notification already exists
+2024-01-10 11:37:50,410 - INFO - Notification already exists
+2024-01-10 11:37:50,465 - INFO - Notification already exists
+2024-01-10 11:37:50,465 - INFO - New trailers found for 6 x 13 of The 100
+2024-01-10 11:37:51,621 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:51,773 - INFO - Notification already exists
+2024-01-10 11:37:51,832 - INFO - Notification already exists
+2024-01-10 11:37:51,895 - INFO - Notification already exists
+2024-01-10 11:37:51,895 - INFO - New trailers found for 7 x 1 of The 100
+2024-01-10 11:37:52,886 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:53,004 - INFO - Notification already exists
+2024-01-10 11:37:53,070 - INFO - Notification already exists
+2024-01-10 11:37:53,133 - INFO - Notification already exists
+2024-01-10 11:37:53,133 - INFO - New trailers found for 7 x 2 of The 100
+2024-01-10 11:37:54,105 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:54,233 - INFO - Notification already exists
+2024-01-10 11:37:54,291 - INFO - Notification already exists
+2024-01-10 11:37:54,355 - INFO - Notification already exists
+2024-01-10 11:37:54,356 - INFO - New trailers found for 7 x 3 of The 100
+2024-01-10 11:37:55,252 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:55,360 - INFO - Notification already exists
+2024-01-10 11:37:55,423 - INFO - Notification already exists
+2024-01-10 11:37:55,479 - INFO - Notification already exists
+2024-01-10 11:37:55,479 - INFO - New trailers found for 7 x 4 of The 100
+2024-01-10 11:37:56,351 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:56,472 - INFO - Notification already exists
+2024-01-10 11:37:56,528 - INFO - Notification already exists
+2024-01-10 11:37:56,587 - INFO - Notification already exists
+2024-01-10 11:37:56,587 - INFO - New trailers found for 7 x 5 of The 100
+2024-01-10 11:37:57,641 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:57,772 - INFO - Notification already exists
+2024-01-10 11:37:57,825 - INFO - Notification already exists
+2024-01-10 11:37:57,882 - INFO - Notification already exists
+2024-01-10 11:37:57,882 - INFO - New trailers found for 7 x 6 of The 100
+2024-01-10 11:37:58,837 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:37:58,999 - INFO - Notification already exists
+2024-01-10 11:37:59,073 - INFO - Notification already exists
+2024-01-10 11:37:59,128 - INFO - Notification already exists
+2024-01-10 11:37:59,128 - INFO - New trailers found for 7 x 7 of The 100
+2024-01-10 11:37:59,969 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:00,137 - INFO - Notification already exists
+2024-01-10 11:38:00,211 - INFO - Notification already exists
+2024-01-10 11:38:00,265 - INFO - Notification already exists
+2024-01-10 11:38:00,265 - INFO - New trailers found for 7 x 8 of The 100
+2024-01-10 11:38:01,172 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:01,283 - INFO - Notification already exists
+2024-01-10 11:38:01,336 - INFO - Notification already exists
+2024-01-10 11:38:01,399 - INFO - Notification already exists
+2024-01-10 11:38:01,400 - INFO - New trailers found for 7 x 9 of The 100
+2024-01-10 11:38:02,288 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:02,395 - INFO - Notification already exists
+2024-01-10 11:38:02,462 - INFO - Notification already exists
+2024-01-10 11:38:02,523 - INFO - Notification already exists
+2024-01-10 11:38:02,523 - INFO - New trailers found for 7 x 10 of The 100
+2024-01-10 11:38:03,403 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:03,539 - INFO - Notification already exists
+2024-01-10 11:38:03,593 - INFO - Notification already exists
+2024-01-10 11:38:03,662 - INFO - Notification already exists
+2024-01-10 11:38:03,662 - INFO - New trailers found for 7 x 11 of The 100
+2024-01-10 11:38:04,568 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:04,686 - INFO - Notification already exists
+2024-01-10 11:38:04,745 - INFO - Notification already exists
+2024-01-10 11:38:04,807 - INFO - Notification already exists
+2024-01-10 11:38:04,807 - INFO - New trailers found for 7 x 12 of The 100
+2024-01-10 11:38:05,834 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:05,961 - INFO - Notification already exists
+2024-01-10 11:38:06,023 - INFO - Notification already exists
+2024-01-10 11:38:06,078 - INFO - Notification already exists
+2024-01-10 11:38:06,078 - INFO - New trailers found for 7 x 13 of The 100
+2024-01-10 11:38:06,985 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:07,112 - INFO - Notification already exists
+2024-01-10 11:38:07,174 - INFO - Notification already exists
+2024-01-10 11:38:07,235 - INFO - Notification already exists
+2024-01-10 11:38:07,235 - INFO - New trailers found for 7 x 14 of The 100
+2024-01-10 11:38:08,063 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:08,176 - INFO - Notification already exists
+2024-01-10 11:38:08,235 - INFO - Notification already exists
+2024-01-10 11:38:08,293 - INFO - Notification already exists
+2024-01-10 11:38:08,293 - INFO - New trailers found for 7 x 15 of The 100
+2024-01-10 11:38:09,159 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:38:09,272 - INFO - Notification already exists
+2024-01-10 11:38:09,333 - INFO - Notification already exists
+2024-01-10 11:38:09,388 - INFO - Notification already exists
+2024-01-10 11:38:09,388 - INFO - New trailers found for 7 x 16 of The 100
+2024-01-10 11:38:42,701 - INFO - Keyboard interrupt
+2024-01-10 11:44:32,745 - INFO - Keyboard interrupt
+2024-01-10 11:44:33,742 - INFO - Initializing program...
+2024-01-10 11:44:57,938 - INFO - Keyboard interrupt
+2024-01-10 11:44:59,061 - INFO - Initializing program...
+2024-01-10 11:45:08,991 - INFO - Command input - list all shows
+2024-01-10 11:45:21,312 - INFO - Command input - snooze/unsnooze show
+2024-01-10 11:46:03,305 - INFO - Command input - snooze/unsnooze show
+2024-01-10 11:46:15,193 - INFO - Command input - snooze/unsnooze show
+2024-01-10 11:46:24,802 - INFO - Command input - list shows
+2024-01-10 11:46:34,813 - INFO - Keyboard interrupt
+2024-01-10 11:51:14,688 - INFO - Initializing program...
+2024-01-10 11:51:29,727 - INFO - Command input - snooze/unsnooze show
+2024-01-10 11:51:41,465 - INFO - Command input - list shows
+2024-01-10 11:51:57,984 - INFO - Initializing program...
+2024-01-10 11:52:02,944 - INFO - Command input - list shows
+2024-01-10 11:52:07,924 - INFO - Keyboard interrupt
+2024-01-10 11:52:19,681 - INFO - Initializing program...
+2024-01-10 11:52:22,630 - INFO - Command input - list shows
+2024-01-10 11:53:14,771 - INFO - Keyboard interrupt
+2024-01-10 11:53:39,959 - INFO - Keyboard interrupt
+2024-01-10 11:54:09,100 - INFO - Keyboard interrupt
+2024-01-10 11:54:38,999 - INFO - Keyboard interrupt
+2024-01-10 11:55:03,943 - INFO - Keyboard interrupt
+2024-01-10 11:55:25,572 - INFO - Keyboard interrupt
+2024-01-10 11:56:01,213 - INFO - Searching for new episodes for all shows
+2024-01-10 11:56:01,302 - INFO - Searching for new episodes for Ahsoka
+2024-01-10 11:56:01,302 - INFO - Getting episodes per season for https://www.imdb.com/title/tt30192148/
+2024-01-10 11:56:01,302 - INFO - Extracting show info from https://www.imdb.com/title/tt30192148/
+2024-01-10 11:56:04,716 - INFO - Getting episodes of season https://www.imdb.com/title/tt30192148/episodes?season=1
+2024-01-10 11:56:07,088 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:07,219 - INFO - Notification already exists
+2024-01-10 11:56:07,291 - INFO - Notification already exists
+2024-01-10 11:56:07,336 - INFO - Notification already exists
+2024-01-10 11:56:07,336 - INFO - New trailers found for 1 x 6 of Ahsoka
+2024-01-10 11:56:07,976 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:08,082 - INFO - Notification already exists
+2024-01-10 11:56:08,129 - INFO - Notification already exists
+2024-01-10 11:56:08,281 - INFO - New trailers found for 1 x 7 of Ahsoka
+2024-01-10 11:56:08,950 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:09,093 - INFO - Notification already exists
+2024-01-10 11:56:09,136 - INFO - Notification already exists
+2024-01-10 11:56:09,175 - INFO - Notification already exists
+2024-01-10 11:56:09,175 - INFO - New trailers found for 1 x 8 of Ahsoka
+2024-01-10 11:56:09,219 - INFO - Searching for new episodes for The Sopranos
+2024-01-10 11:56:09,219 - INFO - Getting episodes per season for https://www.imdb.com/title/tt0141842/
+2024-01-10 11:56:09,219 - INFO - Extracting show info from https://www.imdb.com/title/tt0141842/
+2024-01-10 11:56:16,262 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=1
+2024-01-10 11:56:18,336 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=2
+2024-01-10 11:56:19,969 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=3
+2024-01-10 11:56:21,362 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=4
+2024-01-10 11:56:22,757 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=5
+2024-01-10 11:56:24,173 - INFO - Getting episodes of season https://www.imdb.com/title/tt0141842/episodes?season=6
+2024-01-10 11:56:26,542 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:26,648 - INFO - Notification already exists
+2024-01-10 11:56:26,699 - INFO - Notification already exists
+2024-01-10 11:56:26,743 - INFO - Notification already exists
+2024-01-10 11:56:26,743 - INFO - New trailers found for 5 x 13 of The Sopranos
+2024-01-10 11:56:27,445 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:27,542 - INFO - Notification already exists
+2024-01-10 11:56:27,589 - INFO - Notification already exists
+2024-01-10 11:56:27,635 - INFO - Notification already exists
+2024-01-10 11:56:27,635 - INFO - New trailers found for 6 x 1 of The Sopranos
+2024-01-10 11:56:28,341 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:28,482 - INFO - Notification already exists
+2024-01-10 11:56:28,529 - INFO - Notification already exists
+2024-01-10 11:56:28,575 - INFO - Notification already exists
+2024-01-10 11:56:28,575 - INFO - New trailers found for 6 x 2 of The Sopranos
+2024-01-10 11:56:29,235 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:29,329 - INFO - Notification already exists
+2024-01-10 11:56:29,373 - INFO - Notification already exists
+2024-01-10 11:56:29,420 - INFO - Notification already exists
+2024-01-10 11:56:29,420 - INFO - New trailers found for 6 x 3 of The Sopranos
+2024-01-10 11:56:30,073 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:30,169 - INFO - Notification already exists
+2024-01-10 11:56:30,214 - INFO - Notification already exists
+2024-01-10 11:56:30,258 - INFO - Notification already exists
+2024-01-10 11:56:30,258 - INFO - New trailers found for 6 x 4 of The Sopranos
+2024-01-10 11:56:30,983 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:31,086 - INFO - Notification already exists
+2024-01-10 11:56:31,131 - INFO - Notification already exists
+2024-01-10 11:56:31,177 - INFO - Notification already exists
+2024-01-10 11:56:31,177 - INFO - New trailers found for 6 x 5 of The Sopranos
+2024-01-10 11:56:32,170 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:32,261 - INFO - Notification already exists
+2024-01-10 11:56:32,307 - INFO - Notification already exists
+2024-01-10 11:56:32,353 - INFO - Notification already exists
+2024-01-10 11:56:32,353 - INFO - New trailers found for 6 x 6 of The Sopranos
+2024-01-10 11:56:33,028 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:33,130 - INFO - Notification already exists
+2024-01-10 11:56:33,178 - INFO - Notification already exists
+2024-01-10 11:56:33,240 - INFO - Notification already exists
+2024-01-10 11:56:33,240 - INFO - New trailers found for 6 x 7 of The Sopranos
+2024-01-10 11:56:33,872 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:33,963 - INFO - Notification already exists
+2024-01-10 11:56:34,013 - INFO - Notification already exists
+2024-01-10 11:56:34,064 - INFO - Notification already exists
+2024-01-10 11:56:34,064 - INFO - New trailers found for 6 x 8 of The Sopranos
+2024-01-10 11:56:34,794 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:34,877 - INFO - Notification already exists
+2024-01-10 11:56:34,914 - INFO - Notification already exists
+2024-01-10 11:56:34,956 - INFO - Notification already exists
+2024-01-10 11:56:34,956 - INFO - New trailers found for 6 x 9 of The Sopranos
+2024-01-10 11:56:35,606 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:35,704 - INFO - Notification already exists
+2024-01-10 11:56:35,750 - INFO - Notification already exists
+2024-01-10 11:56:35,795 - INFO - Notification already exists
+2024-01-10 11:56:35,795 - INFO - New trailers found for 6 x 10 of The Sopranos
+2024-01-10 11:56:36,448 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:36,556 - INFO - Notification already exists
+2024-01-10 11:56:36,603 - INFO - Notification already exists
+2024-01-10 11:56:36,697 - INFO - New trailers found for 6 x 11 of The Sopranos
+2024-01-10 11:56:37,383 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:37,480 - INFO - Notification already exists
+2024-01-10 11:56:37,526 - INFO - Notification already exists
+2024-01-10 11:56:37,571 - INFO - Notification already exists
+2024-01-10 11:56:37,571 - INFO - New trailers found for 6 x 12 of The Sopranos
+2024-01-10 11:56:38,255 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:38,355 - INFO - Notification already exists
+2024-01-10 11:56:38,401 - INFO - Notification already exists
+2024-01-10 11:56:38,453 - INFO - Notification already exists
+2024-01-10 11:56:38,453 - INFO - New trailers found for 6 x 13 of The Sopranos
+2024-01-10 11:56:39,106 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:39,200 - INFO - Notification already exists
+2024-01-10 11:56:39,248 - INFO - Notification already exists
+2024-01-10 11:56:39,313 - INFO - Notification already exists
+2024-01-10 11:56:39,313 - INFO - New trailers found for 6 x 14 of The Sopranos
+2024-01-10 11:56:40,496 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:40,599 - INFO - Notification already exists
+2024-01-10 11:56:40,639 - INFO - Notification already exists
+2024-01-10 11:56:40,681 - INFO - Notification already exists
+2024-01-10 11:56:40,681 - INFO - New trailers found for 6 x 15 of The Sopranos
+2024-01-10 11:56:41,325 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:41,434 - INFO - Notification already exists
+2024-01-10 11:56:41,472 - INFO - Notification already exists
+2024-01-10 11:56:41,514 - INFO - Notification already exists
+2024-01-10 11:56:41,514 - INFO - New trailers found for 6 x 16 of The Sopranos
+2024-01-10 11:56:42,227 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:42,317 - INFO - Notification already exists
+2024-01-10 11:56:42,361 - INFO - Notification already exists
+2024-01-10 11:56:42,523 - INFO - Notification already exists
+2024-01-10 11:56:42,523 - INFO - New trailers found for 6 x 17 of The Sopranos
+2024-01-10 11:56:43,207 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:43,323 - INFO - Notification already exists
+2024-01-10 11:56:43,366 - INFO - Notification already exists
+2024-01-10 11:56:43,407 - INFO - Notification already exists
+2024-01-10 11:56:43,407 - INFO - New trailers found for 6 x 18 of The Sopranos
+2024-01-10 11:56:44,131 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:44,222 - INFO - Notification already exists
+2024-01-10 11:56:44,264 - INFO - Notification already exists
+2024-01-10 11:56:44,309 - INFO - Notification already exists
+2024-01-10 11:56:44,309 - INFO - New trailers found for 6 x 19 of The Sopranos
+2024-01-10 11:56:44,958 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:45,053 - INFO - Notification already exists
+2024-01-10 11:56:45,098 - INFO - Notification already exists
+2024-01-10 11:56:45,143 - INFO - Notification already exists
+2024-01-10 11:56:45,143 - INFO - New trailers found for 6 x 20 of The Sopranos
+2024-01-10 11:56:45,709 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:45,803 - INFO - Notification already exists
+2024-01-10 11:56:45,848 - INFO - Notification already exists
+2024-01-10 11:56:45,888 - INFO - Notification already exists
+2024-01-10 11:56:45,888 - INFO - New trailers found for 6 x 21 of The Sopranos
+2024-01-10 11:56:45,929 - INFO - Searching for new episodes for The Last of Us
+2024-01-10 11:56:45,930 - INFO - Getting episodes per season for https://www.imdb.com/title/tt3581920/
+2024-01-10 11:56:45,930 - INFO - Extracting show info from https://www.imdb.com/title/tt3581920/
+2024-01-10 11:56:49,062 - INFO - Getting episodes of season https://www.imdb.com/title/tt3581920/episodes?season=1
+2024-01-10 11:56:50,872 - INFO - Getting episodes of season https://www.imdb.com/title/tt3581920/episodes?season=2
+2024-01-10 11:56:52,921 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:53,026 - INFO - Notification already exists
+2024-01-10 11:56:53,071 - INFO - Notification already exists
+2024-01-10 11:56:53,115 - INFO - Notification already exists
+2024-01-10 11:56:53,115 - INFO - New trailers found for 1 x 1 of The Last of Us
+2024-01-10 11:56:53,759 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:53,862 - INFO - Notification already exists
+2024-01-10 11:56:53,906 - INFO - Notification already exists
+2024-01-10 11:56:53,950 - INFO - Notification already exists
+2024-01-10 11:56:53,950 - INFO - New trailers found for 1 x 2 of The Last of Us
+2024-01-10 11:56:54,636 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:54,865 - INFO - Notification already exists
+2024-01-10 11:56:54,908 - INFO - Notification already exists
+2024-01-10 11:56:54,954 - INFO - Notification already exists
+2024-01-10 11:56:54,954 - INFO - New trailers found for 1 x 3 of The Last of Us
+2024-01-10 11:56:55,667 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:55,764 - INFO - Notification already exists
+2024-01-10 11:56:55,812 - INFO - Notification already exists
+2024-01-10 11:56:55,859 - INFO - Notification already exists
+2024-01-10 11:56:55,859 - INFO - New trailers found for 1 x 4 of The Last of Us
+2024-01-10 11:56:56,506 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:56,603 - INFO - Notification already exists
+2024-01-10 11:56:56,647 - INFO - Notification already exists
+2024-01-10 11:56:56,694 - INFO - Notification already exists
+2024-01-10 11:56:56,694 - INFO - New trailers found for 1 x 5 of The Last of Us
+2024-01-10 11:56:57,378 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:57,589 - INFO - Notification already exists
+2024-01-10 11:56:57,634 - INFO - Notification already exists
+2024-01-10 11:56:57,727 - INFO - New trailers found for 1 x 6 of The Last of Us
+2024-01-10 11:56:58,424 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:58,525 - INFO - Notification already exists
+2024-01-10 11:56:58,569 - INFO - Notification already exists
+2024-01-10 11:56:58,612 - INFO - Notification already exists
+2024-01-10 11:56:58,613 - INFO - New trailers found for 1 x 7 of The Last of Us
+2024-01-10 11:56:59,300 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:56:59,451 - INFO - Notification already exists
+2024-01-10 11:56:59,496 - INFO - Notification already exists
+2024-01-10 11:56:59,583 - INFO - New trailers found for 1 x 8 of The Last of Us
+2024-01-10 11:57:00,298 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:57:00,405 - INFO - Notification already exists
+2024-01-10 11:57:00,449 - INFO - Notification already exists
+2024-01-10 11:57:00,543 - INFO - New trailers found for 1 x 9 of The Last of Us
+2024-01-10 11:57:01,283 - INFO - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+2024-01-10 11:57:01,385 - INFO - Notification already exists
+2024-01-10 11:57:01,423 - INFO - Notification already exists
+2024-01-10 11:57:01,466 - INFO - Notification already exists
+2024-01-10 11:57:01,466 - INFO - New trailers found for 2 x 1 of The Last of Us
+2024-01-10 11:57:18,844 - INFO - Keyboard interrupt
+2024-01-10 11:58:11,845 - INFO - Keyboard interrupt
+2024-01-10 11:58:33,899 - INFO - Keyboard interrupt
+2024-01-10 11:58:44,656 - INFO - Keyboard interrupt
+2024-01-10 12:01:02,051 - INFO - Keyboard interrupt
+2024-01-10 12:01:34,314 - INFO - Keyboard interrupt
+2024-01-10 12:02:29,235 - INFO - Keyboard interrupt
+2024-01-10 12:02:43,613 - INFO - Initializing program
+2024-01-10 12:02:47,634 - INFO - Command entered: listare
+2024-01-10 12:03:48,388 - INFO - Keyboard interrupt
+2024-01-10 12:04:18,908 - INFO - Initializing program
+2024-01-10 12:04:27,227 - INFO - Command entered: vizualizare seriale
+2024-01-10 12:09:48,164 - INFO - Keyboard interrupt
+2024-01-10 12:09:49,148 - INFO - Initializing program
+2024-01-10 12:09:49,149 - INFO - Selecting shows with no rating and notifications
+2024-01-10 12:09:53,641 - INFO - Command entered: listare
+2024-01-10 12:09:53,641 - INFO - Selecting shows with notifications and are not snoozed
+2024-01-10 12:09:53,689 - INFO - Selecting notifications for show with id: 1
+2024-01-10 12:09:53,736 - INFO - Selecting notifications for show with id: 5
+2024-01-10 12:09:53,780 - INFO - Selecting notifications for show with id: 4

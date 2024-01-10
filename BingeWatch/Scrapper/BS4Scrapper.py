@@ -41,13 +41,16 @@ def get_episodes_of_season(imdb_link):
     :param imdb_link:
     :return: The number of episodes of a given season.
     """
+    logging.info(f"Getting episodes of season {imdb_link}")
+    print(imdb_link)
     response = requests.get(imdb_link, headers=headers)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, "html.parser")
-        episode_section = soup.find("section", class_="sc-58f3e8aa-0 cLMIyf")
-        if episode_section:
-            episodes = episode_section.find_all(
-                "article", class_="sc-282bae8e-1 dSEzwa episode-item-wrapper"
+        main_section = soup.find("section", class_="ipc-page-section ipc-page-section--base "
+                                                   "ipc-page-section--sp-pageMargin")
+        if main_section:
+            episodes = main_section.find_all(
+                "article", class_="episode-item-wrapper"
             )
             num_episodes = len(episodes)
             return num_episodes
